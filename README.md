@@ -13,9 +13,7 @@ Value Stream Mapping is a form of lean-management and was one of the foundations
 System. It maps the series of events that take a product or service from the beginning of the specific process until it reaches the customer.
 Even though it stems from a manufacturing world, it can be applied to a software process as well. 
 
-<img src="misc/parachute.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![](parachute.jpg)
 
 #### How to do it
 Having done this 
