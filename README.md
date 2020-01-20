@@ -1,9 +1,9 @@
 ## Blogs
 My writings for the public
 
-#### You trying to find the reasons your software development process is slow and want to speed up ...
-You experience that things are sticky, and it's hard to finish user stories within a sprint length. You've tried to deliver smaller 
-pieces of functionality but it is still a struggle to complete these in a reasonable amount of time.
+#### You perceive your time to market for new features to be slow and want to speed up ...
+You experience that things are sticky, and it's hard to finish increments within a sprint length. You've tried to deliver smaller 
+increments, but it is still a struggle to complete these in a reasonable amount of time.
 
 One of the reasons might be that wasteful activities and unnecessary handovers are hiding in your
 development process. 
@@ -11,29 +11,29 @@ development process.
 #### A Value Stream Map (VSM) can help you uncover these kinds of waste
 Value Stream Mapping is a form of lean-management and was one of the foundations that made the Toyota Production 
 System. It maps the series of events that take a product or service from the beginning of the specific process (inception) 
-until it reaches the customer. Even though it stems from a manufacturing world, it can be applied to a 
-software process as well. 
+until it reaches the customer. Even though it stems from a manufacturing world, it can be applied to software as well. 
 
 #### How to do it
-Having done this 
+Although tooling exists 
 
 #### Involve everyone 
 
-#### We are doing SCRUM. I've been told a VSM does not apply for SCRUM
-In SCRUM, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams too 
-self organise to optimize and eliminate waste. In reality though, teams with various maturity levels struggle 
-to do so simply because they are not consciously aware of the wasteful nature of handovers. 
+#### We are doing SCRUM. I've been told a VSM does not apply for SCRUM!
+In SCRUM, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
+self organise, optimize (and eliminate waste). In reality though, teams with various maturity levels struggle 
+to do so. Often they are not aware of the wasteful nature of certain activities and the hidden cost of handovers.  
 
-A lot of teams initially tend to try to optimise the hands-on bits and not to think about 
-what is in between (wait times) or how colaborating on activities can greatly 
-reduce these handovers. They often don't really see it as a problem. 
+They optimise individual tasks and are not aware what is in between (wait times) or how collaborating on activities 
+can greatly reduce handovers. 
 
-Furthermore Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this 
-because of a lack of technical knowledge or deep understanding of the development processes. 
+Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this area.
 
-A VSM can be helpful to calculate efficiency and visualize problems 
+It can be helpful to calculate efficiency, visualize problems and  
 
-#### The implications of lots of handovers
+#### How to approach 
+
+
+#### The implications of lots of handovers in knowledge work
 Cost of context switching by loss of focus. Perhaps fine for a manufacturing process, but very costly to knowledge work
 (link to blog the hidden cost of context switching)
 
