@@ -12,18 +12,25 @@ development process.
 
 Value Stream Mapping is a form of lean-management and was one of the foundations that made the Toyota Production 
 System. It maps the series of events that take a product or service from the beginning of the specific process (inception) 
-until it reaches the customer. Even though it stems from a manufacturing world, it can be applied to software as well. 
+until it reaches the customer. Even though it stems from a manufacturing world, it can be applied to software as well.
+ 
 
-#### How to do it?
-I usually gather everyone who is involved from the inception until the feature is in production. It is important to involve everyone
+#### How to do it for a software project?
+I usually gather everyone who is involved from the inception until the feature is in production for a two day session.
+ 
+ and I divide their roles
+into the horizontally . Asking them what tasks they complete. Here the interaction in the teams 
 
-Now I can count the time for 
+. It is important to 
+There are basically 
+involve everyone. Now I can add up all the times from 
 
 
-#### Can I do it just for the software team?
+
+#### Can I do it just for the individual software team?
 You can and it will be still be very useful for local optimization. The advantage is that a team can do it without any
-dependencies on the rest of the organisation. It is smaller and is easier to organise. Do note though that most value is 
-achieved by mapping the complete value stream. If this is hard to organise in your project this could point to an 
+dependencies on the rest of the organisation. It is smaller and is easier to organise. Most value is 
+achieved by mapping the complete value stream though. If this is hard to organise in your project this could point to an 
 organisational and / or cultural problem.
 
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
@@ -35,10 +42,10 @@ do not try to optimize for this.
 Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this area. A VSM can help in
 this scenario as well. 
 
-I do make some adjustments: The only official roles in a Scrum team are Dev, PO and SM I tend to focus on the tasks 
-and not work from roles. Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of
-work. Still, certain steps do always take place and lead to a picture as below, basically mirroring the CI/CD pipeline 
-with all the human tasks required for each step.
+I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO and SM I tend to focus on 
+the tasks and not work from roles. Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of 
+the flow of work. Still, certain steps do always take place and lead to a picture as below, usually mirroring 
+the CI/CD pipeline with all the human tasks required for each step.
 
 #### Should I use specialized tooling?
 Tooling exists and can definitely make automation of the calculations easier, as well as repeatability. 
@@ -46,7 +53,7 @@ I find the results are better using brown paper on the wall though. The visual a
 and through collaborating interactively important insights are shared and a common understanding is reached.
 
 #### The implications of lots of handovers in knowledge work
-Cost of context switching by loss of focus. Perhaps fine for a manufacturing process, but very costly to knowledge work
+The cost of context switching by loss of focus in knowledge work is even more severe in 
 (link to blog the hidden cost of context switching)
 
 #### Make your coaching effort 'measurable'
@@ -58,7 +65,7 @@ Creating a DevOps, CI/CD pipeline
 
 #### Conclusions
 VSM's can help you make inefficiencies in the development process visible. In my opinion it is an essential element in 
-the toolbox of any coach. Furthermore, for teams it tends to be inspiring anc can help kickstart a culture of continuous
+the toolbox of any coach. Furthermore, for teams it tends to be inspiring and can help kickstart a culture of continuous
 improvement. Last but not least, it can make team progress and coaching results more tangible.  
 
 ![](parachute.jpg)
