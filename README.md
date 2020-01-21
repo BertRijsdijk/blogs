@@ -2,8 +2,8 @@
 My writings for the public
 
 #### You perceive your time to market for new features to be slow and want to speed up ...
-You experience that things are sticky, and it's hard to finish anything within a sprint length. You've tried to deliver smaller 
-increments, but it is still a struggle to complete these in a reasonable amount of time.
+You experience that things are sticky, and it's hard to finish anything within a sprint length. You've tried to deliver 
+smaller increments, but it is still a struggle to complete these in a reasonable amount of time.
 
 One of the reasons might be that wasteful activities and unnecessary handovers are hiding in your
 development process. 
@@ -15,34 +15,37 @@ System. It maps the series of events that take a product or service from the beg
 until it reaches the customer. Even though it stems from a manufacturing world, it can be applied to software as well. 
 
 #### How to do it?
-I usually gather 
+I usually gather everyone who is involved from the c  
+
+It is important to involve everyone
 
 Now I can count the time for 
 
-#### Should I use specialized tooling?
-Tooling exists and can definitely make automation of the calculations easier, as well as repeatability. 
-I find the results are better using brown paper on the wall though. The visual aspect of it is important 
-and through collaborating interactively important insights are shared and a common understanding is reached
-
-#### It is important to involve everyone
 
 
 #### Can I do it just for the software team?
 You can and it will be useful (For example in the form of a CI/CD pipeline), but most value is achieved throughout the 
-complete value stream. If this is hard to organise in your project this could  
+complete value stream. If this is hard to organise in your project this could point to organisational and / or cultural
+problems.
 
-#### We are doing SCRUM. I've been told a VSM does not apply for SCRUM!
-In SCRUM, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
+#### We are doing Scrum. I've been told a VSM does not apply for Scrum teams!
+In Scrum, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
 self organise, optimize (and eliminate waste). In reality though, teams with various maturity levels struggle 
 to do so. Often they are not aware of the wasteful nature of certain activities and the hidden cost of handovers so they
-do not try to optimize this.  
+do not try to optimize for this.  
 
 Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this area. A VSM can help in
-this scenario as well.
+this scenario as well. 
 
-#### How to approach it with a SCRUM team then
-Since roles usually matter less (only official roles in a SCRUM team are Dev, PO and SM!) I Focus more on the tasks then 
-on who does it   
+I do make some adjustments: The only official roles in a Scrum team are Dev, PO and SM I tend to focus on the tasks 
+and not who does them. Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of
+work. Still, certain steps do always take place and lead to a picture as below, basically mirroring the CI/CD pipeline with 
+all the human tasks required for each step
+
+#### Should I use specialized tooling?
+Tooling exists and can definitely make automation of the calculations easier, as well as repeatability. 
+I find the results are better using brown paper on the wall though. The visual aspect of it is important 
+and through collaborating interactively important insights are shared and a common understanding is reached.
 
 #### The implications of lots of handovers in knowledge work
 Cost of context switching by loss of focus. Perhaps fine for a manufacturing process, but very costly to knowledge work
@@ -56,7 +59,15 @@ Cost of context switching by loss of focus. Perhaps fine for a manufacturing pro
 Creating a DevOps, CI/CD pipeline
 
 #### Conclusions
-VSM's can help you make . In my opinion it is an essential element in your coaching toolbox 
+VSM's can help you make inefficiencies in the development process visible. In my opinion it is an essential element in 
+the toolbox of any coach. Furthermore, for teams it tends to be inspiring anc can help kickstart a culture of continuous
+improvement. Last, but not least, it can make team progress and coaching results more tangible.  
 
 ![](parachute.jpg)
 ![](snail.jpg)
+
+
+#### The implications of lots of handovers in knowledge work
+Cost of context switching by loss of focus. Perhaps not as much for a manufacturing process, but very costly to 
+knowledge work
+(link to blog the hidden cost of context switching)
