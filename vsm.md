@@ -22,12 +22,12 @@ Now vertically map the finer grained tasks including wait times and possible loo
 Next, classify each fine-grained task as Customer Value Adding (CVA), Non Value Adding(NVA) and Waste. This is harder 
 then it seems and expect a lot of healthy discussion. 
 <br/><br/>
-Also add the average processing and wait times for the item. It is now possible to calculate cycle efficiency! Do not
+Add the average processing and wait times for the item. It is now possible to calculate cycle efficiency! Do not
 be surprised if your cycle efficiency is below 30%! 
 <br/><br/>
 Note that the visual and collaboration aspects are important and performing these steps alone will often already lead 
 to ideas for optimizations. Next to that it can also bring an increased level of empathy in case of silo'ed organisations
- and will make your efforts as a coach more measurable by repeating the exercise. 
+ and you will help make the growth of a team more tangible. 
 
 #### Can I do it just for the development team?
 You can and it will be still be very useful for local optimization. The advantage is that a team can do it without any
