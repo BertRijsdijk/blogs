@@ -1,5 +1,5 @@
 #### You perceive your time to market for new features to be slow and want to speed up
-You experience that things are slow, and it's hard to finish anything within a sprint length. You've tried to deliver 
+You experience that things are slow, and it's hard to finish anything within an iteration. You've tried to deliver 
 smaller increments, but it is still a struggle to complete these in a reasonable amount of time. 
 
 One of the reasons might be that wasteful activities and unnecessary handovers are hiding in your
@@ -10,20 +10,23 @@ development process.
 Value Stream Mapping is a form of lean-management and was one of the foundations that made the Toyota Production 
 System. It maps the series of events that take a product or service from the beginning of the specific process (inception) 
 until it reaches the customer. Even though it stems from a manufacturing world, it can be applied to software as well. 
+Furthermore, it is a extremely helpful technique there because there the cost of context switching is so high in 
+knowledge work and software development specifically (link to blog the hidden cost of context switching) 
  
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the value stream is gathered 
-(from inception to delivery of the feature to the customers). The technique is simple but the devil is in the details.
-Based on a few relevant example slices you map the value stream horizontally from left to right. 
+(from inception to delivery of the feature to the customers). The technique is simple (but the devil is in the details).
+Choose a few relevant and representative example slices to map the value stream horizontally from left to right. 
 Now vertically map the finer grained tasks including wait times and possible loops between them. 
 
 Next, classify each fine-grained task as Customer Value Adding (CVA), Non Value Adding(NVA) and Waste. This is harder 
-then it seems and expect a lot of discussions (do you think code reviews are wasteful when you can pair program?)
+then it seems and expect a lot of healthy discussion.
 
 Also add the average processing and wait times for the item. It is now possible to calculate cycle efficiency!
 
 Note that the visual and collaboration aspects are important and performing these steps alone will often already lead 
-to ideas for optimizations. Next to that it can also bring an increased level of empathy in case of silo'ed organisations.
+to ideas for optimizations. Next to that it can also bring an increased level of empathy in case of silo'ed organisations,
+ make your efforts as a coach more measurable by repeating the exercise (for example every 4 months) 
 
 #### Can I do it just for the development team?
 You can and it will be still be very useful for local optimization. The advantage is that a team can do it without any
@@ -64,6 +67,8 @@ Creating a DevOps, CI/CD pipeline
 
 #### When would you not use it?
 
+
+be careful to not to make it into a tool to measure the performance of a team . Hard numbers
 #### Conclusions
 VSM's can help you make inefficiencies in the development process visible. In my opinion it is an essential element in 
 the toolbox of any coach. Furthermore, for teams it tends to be inspiring and can help kickstart a culture of continuous
