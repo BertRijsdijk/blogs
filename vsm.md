@@ -40,9 +40,9 @@ organisational and / or cultural problem.
 #### Could you share some examples of waste that was identified and quantified by a VSM?
 Yes, a client I helped recently had a double code review (one in the team and one outside). The huge amount of handovers 
 and wait times had always been hidden but now became clearer. Because of all the waiting teams would switch to other tasks.
-Effectively everything was in progress at same time.  After a tough discussion we convinced one of the teams to experiment 
+Effectively everything was in progress at same time. After a tough discussion we convinced one of the teams to experiment 
 with pair programming. Besides knowledge sharing this greatly reduced the cycle efficiency creating an upward spiral for
-the team.
+the team. As a side effect it also increased code quality!
 <br/><br/>
 Another client had a Product Owner signoff task which on average took several days to be completed, mostly consisting of
 wait time. In this case the development teams were very aware of the problem but the VSM exercise helped convince the 
