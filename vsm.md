@@ -41,15 +41,15 @@ of the teams to experiment with
 
 <br/><br/>
 Another client had a Product Owner signoff task which on average took several days to be completed, mostly consisting of
-waittime. In this case the development teams were very aware of the problem but the VSM exercise  helped convince the 
+wait time. In this case the development teams were very aware of the problem but the VSM exercise  helped convince the 
 Product Owner through "hard numbers" that this quality gate was incredibly expensive. It became clear that the PO needed 
-to work more closely with the team throughout the iteration. 
+to work more closely with the team throughout the iteration instead of validation after the implementation. 
 
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
 In Scrum, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
 self organise, optimize (and eliminate waste). In reality though, teams with various maturity levels struggle 
 to do so. Often they are not aware of the wasteful nature of certain activities and the hidden cost of handovers so they
-do not try to optimize for this.  
+do not try to optimize for this.
 <br/><br/>
 Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this area. 
 <br/><br/>
