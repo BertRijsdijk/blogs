@@ -22,11 +22,12 @@ Now vertically map the finer grained tasks including wait times and possible loo
 Next, classify each fine-grained task as Customer Value Adding (CVA), Non Value Adding(NVA) and Waste. This is harder 
 then it seems and expect a lot of healthy discussion.
 
-Also add the average processing and wait times for the item. It is now possible to calculate cycle efficiency!
+Also add the average processing and wait times for the item. It is now possible to calculate cycle efficiency! Do not
+be surprised if your cycle efficiency is below 30%! 
 
 Note that the visual and collaboration aspects are important and performing these steps alone will often already lead 
-to ideas for optimizations. Next to that it can also bring an increased level of empathy in case of silo'ed organisations,
- make your efforts as a coach more measurable by repeating the exercise (for example every 4 months) 
+to ideas for optimizations. Next to that it can also bring an increased level of empathy in case of silo'ed organisations
+ and will make your efforts as a coach more measurable by repeating the exercise (for example every 4 months) 
 
 #### Can I do it just for the development team?
 You can and it will be still be very useful for local optimization. The advantage is that a team can do it without any
@@ -35,7 +36,12 @@ achieved by mapping the complete value stream though. If this is hard to organis
 organisational and / or cultural problem.
 
 #### Could you share some examples of waste that was identified and quantified by a VSM?
+Yes, a client I helped recently had a "double code review" where one would be 
 
+Another client had a Product Owner signoff task which on average took several days to be completed. 
+In this case the team was very aware of the problem but the Value Stream Map helped convince the Product Owner through
+"hard numbers" that this quality gate was incredibly expensive and it became clear that the PO needed to work more closely
+with the team throughout the iteration. 
 
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
 In Scrum, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
@@ -43,8 +49,7 @@ self organise, optimize (and eliminate waste). In reality though, teams with var
 to do so. Often they are not aware of the wasteful nature of certain activities and the hidden cost of handovers so they
 do not try to optimize for this.  
 
-Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this area. A VSM can help in
-this scenario as well. 
+Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this area. 
 
 I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO and SM I tend to focus on 
 the tasks and not work from roles. Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of 
@@ -65,7 +70,7 @@ The cost of context switching by loss of focus in knowledge work is even more se
 #### Other contexts where Value Stream Mapping can be provide Value
 Creating a DevOps, CI/CD pipeline
 
-#### When would you not use it?
+#### Are there any downsides
 
 
 be careful to not to make it into a tool to measure the performance of a team . Hard numbers
