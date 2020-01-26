@@ -83,4 +83,4 @@ VSM's can help you make inefficiencies in the development process visible. In my
 the toolbox of any coach. Furthermore, for teams it tends to be inspiring and can help kickstart a culture of continuous
 improvement. Last but not least, it can make team progress and coaching results more tangible. Try it!
 
-![](maxresdefault)
+![](maxresdefault.jpg)
