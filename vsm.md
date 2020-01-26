@@ -50,7 +50,7 @@ In Scrum, the three pillars Transparency, Inspection and Adaptation should enabl
 self organise, optimize (and eliminate waste). In reality though, teams with various maturity levels struggle 
 to do so. Often they are not aware of the wasteful nature of certain activities and the hidden cost of handovers so they
 do not try to optimize for this.
-<br/><br/>
+
 Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this area. 
 <br/><br/>
 I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO and SM I tend to focus on 
