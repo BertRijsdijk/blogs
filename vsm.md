@@ -1,3 +1,5 @@
+![](parachute.jpg)
+
 #### You perceive your time to market for new features to be slow and want to speed up
 You experience that things are slow, and it's hard to finish anything within an iteration. You've tried to deliver 
 smaller increments, but it is still a struggle to complete these in a reasonable amount of time. 
@@ -36,13 +38,16 @@ achieved by mapping the complete value stream though. If this is hard to organis
 organisational and / or cultural problem.
 
 #### Could you share some examples of waste that was identified and quantified by a VSM?
-Yes, a client I helped recently had a "double code review" where one would be. After a tough discussion we convinced one
+Yes, a client I helped recently had a double code review (one in the team and one outside). The amount of handovers 
+and wait times had always been hidden but now became clearer.  
+ 
+ 
+ After a tough discussion we convinced one
 of the teams to experiment with
-
 <br/><br/>
 Another client had a Product Owner signoff task which on average took several days to be completed, mostly consisting of
-wait time. In this case the development teams were very aware of the problem but the VSM exercise  helped convince the 
-Product Owner through "hard numbers" that this quality gate was incredibly expensive. It became clear that the PO needed 
+wait time. In this case the development teams were very aware of the problem but the VSM exercise helped convince the 
+Product Owner through data that this quality gate was incredibly expensive. It became clear that the PO needed 
 to work more closely with the team throughout the iteration instead of validation after the implementation. 
 
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
@@ -76,9 +81,6 @@ the VSM doesn't become waste by spending enormous amounts of time gathering the 
 #### Conclusions
 VSM's can help you make inefficiencies in the development process visible. In my opinion it is an essential element in 
 the toolbox of any coach. Furthermore, for teams it tends to be inspiring and can help kickstart a culture of continuous
-improvement. Last but not least, it can make team progress and coaching results more tangible.  
+improvement. Last but not least, it can make team progress and coaching results more tangible. Try it!
 
-![](parachute.jpg)
-![](snail.jpg)
-
-#### The relationship between wait times and focus
+![](maxresdefault)
