@@ -48,7 +48,7 @@ of the teams to experiment with
 Another client had a Product Owner signoff task which on average took several days to be completed, mostly consisting of
 wait time. In this case the development teams were very aware of the problem but the VSM exercise helped convince the 
 Product Owner through data that this quality gate was incredibly expensive. It became clear that the PO needed 
-to work more closely with the team throughout the iteration instead of validation after the implementation. 
+to work more closely with the team throughout the iteration instead of validating features after implementation. 
 
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
 In Scrum, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
@@ -69,7 +69,8 @@ I find the results are better using the walls though. The visual aspect of it is
 and through collaborating interactively important insights are shared and a common understanding is reached.
 
 #### Other contexts where Value Stream Mapping can be provide Value
-Creating a DevOps, CI/CD pipeline. Finding bottlenecks and understanding the impact of (external) development dependencies
+Creating a DevOps, CI/CD pipeline. Finding bottlenecks and understanding the impact of (external) development dependencies.
+All very useful.
 
 #### Downsides and when to not use
 Consider not using the technique if it you expect it could be used to measure the performance of a team for accountability
