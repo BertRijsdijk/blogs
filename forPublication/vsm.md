@@ -8,7 +8,7 @@ Value Stream Mapping is a form of lean-management and was at the foundation of t
 A VSM maps the series of activities that take a product or service from the beginning of the specific process (inception) until it reaches the customer. 
 <br/><br/>
 Even though it stems from a manufacturing world, it can be applied to software as well.
-There it is an extremely helpful technique because of the [high cost of context switching](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/) in knowledge work and software development specifically.
+In software development it is an extremely helpful technique because of the [high cost of context switching](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/) in knowledge work and software development specifically.
  
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the value stream is gathered (from inception to delivery of the feature to the customers).
@@ -21,7 +21,7 @@ Next, classify each fine-grained task as Customer Value Adding (CVA), Non-Value 
 <br/><br/>
 Add the average processing and wait times for the item.
 It is now possible to calculate the cycle time/efficiency!
-Do not be surprised if your cycle efficiency is below 30%! 
+Do not be surprised if your cycle ef ficiency is below 30%! 
 <br/><br/>
 Note that the visual and collaboration aspects are important and performing these steps alone will often already lead to ideas for optimizations.
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible. 
