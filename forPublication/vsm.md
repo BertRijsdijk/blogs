@@ -17,7 +17,7 @@ Choose a few relevant and representative example slices to map the value stream 
 Now vertically map the finer-grained tasks including wait times and possible loops between them.
 <br/><br/>
 Next, classify each fine-grained task as Customer Value Adding (CVA), Non-Value Adding(NVA) and Waste.
-This is harder then it seems and expect a lot of healthy discussions. 
+ This is harder then it seems so expect a lot of healthy discussions. s 
 <br/><br/>
 Add the average processing and wait times for the item.
 It is now possible to calculate the cycle time/efficiency!
