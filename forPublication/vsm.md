@@ -12,13 +12,18 @@ In software development it is an extremely helpful technique because of the [hig
  
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the delivery process participates to map the activities from inception until deployment into production.
-The technique is simple (but the devil is in the details).
-Choose a few relevant and representative example slices to map the value stream horizontally from left to right. 
-Now vertically map the finer-grained tasks including wait times and possible loops between them.
-<br/><br/>
-Next, classify each fine-grained task as Customer Value Adding (CVA), Non-Value Adding(NVA) and Waste.
+The technique is simple but the devil is in the details.
 
-Difference between Non-Value adding and waste is..,. Keep it simple.
+Choose a few relevant and representative tickets that the team has recently completed to map all the activities involved in delivery. For example: Writing code, wait for code review, execute automated tests, etc.
+
+Next, classify each activity as Customer Value Adding (CVA), Necessary Non-Value Adding(NNVA) and Waste.
+
+In the above example the activities would be classified as following:
+Writing code -> CVA
+Running CI pipeline, execute automated tests -> NNVA
+Wait for code review -> Waste
+
+
 Use lead time and cycle time
 
  This is harder then it seems so expect a lot of healthy discussions.
