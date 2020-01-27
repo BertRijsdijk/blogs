@@ -47,33 +47,32 @@ Product Owner through data that this quality gate was incredibly expensive and w
 It became clear that the PO needed to work more closely with the team throughout the iteration instead of validating features after implementation. 
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
 In Scrum, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
-self organize, optimize (and eliminate waste). In reality, teams with various maturity levels struggle 
+self organize, optimize and eliminate waste. In reality, teams with various maturity levels struggle 
 to do so. Often they are not aware of the wasteful nature of certain activities and the hidden cost of handovers so they
 do not try to optimize for this.
 
 It can be hard for Scrum masters and Agile Coaches effectively facilitate and challenge teams in this area. 
 <br/><br/>
 I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO, and SM.
-I tend to focus on the tasks and not work from roles.
+I tend to focus on the activites and not work from roles.
 Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of work.
-Still, certain steps do always take place and lead to a picture as below, usually mirroring the CI/CD pipeline with all the human tasks required for each step.
+Still, certain steps do always take place and lead to a picture as below, usually mirroring the CI/CD pipeline with all the human activities required for each step.
 #### Should I use specialized tooling?
 Tooling exists and can make the automation of the calculations easier, as well as repeatability and 
 storing results from specific measurement periods.
-I find the results are better using sharpies, stickies on the walls though.
+I find the results are better using sharpies and stickies on a physical board.
 The visual aspect of it is important and through collaborating interactively important insights are shared and a common understanding is reached.
-#### Downsides and when to not use
-Consider not using the technique if you expect it could be used to measure the performance of a team for accountability reasons or if psychological safety is lacking.
-Besides being an undesirable situation it will not work. 
-collaboration spirit and creativity will not be there.
+#### Downsides and when not to use a VSM
+Consider not using the technique if you expect it might be used to measure the performance of a team and be used against them or when psychological safety is lacking.
+When safety is missing or fragile it will impact the spirit and creativity of the session which will not work.
 <br/><br/> 
-The numbers you calculate are a valuable indication but are not exact and should not be treated as hard numbers.
-Also, make sure that creating the VSM doesn't become waste by spending enormous amounts of time gathering the data.
+The results from the VSM are an indication and should not be treated as hard numbers.
+Also, make sure that creating the VSM doesn't become waste by spending enormous amounts of time gathering the input data.
 Estimates will usually do fine!  
 #### Conclusions
 VSM's can help you make inefficiencies in the development process visible.
 In my opinion, a VSM is an essential element in the toolbox of any coach.
 Furthermore, for teams, it tends to be inspiring and can help kickstart a culture of continuous improvement.
-Last but not least, it can make team progress and coaching results more tangible.
+Last but not least, a VSM can make team progress and coaching results more tangible.
 Try it!
 ![](../maxresdefault.jpg)
