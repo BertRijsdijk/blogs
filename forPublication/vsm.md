@@ -56,7 +56,7 @@ Still, certain steps do always take place and lead to a picture as below, usuall
 #### Should I use specialized tooling?
 Tooling exists and can make the automation of the calculations easier, as well as repeatability and 
 storing results from specific measurement periods.
-I find the results are better using the walls though.
+I find the results are better using sharpies, stickies on the walls though.
 The visual aspect of it is important and through collaborating interactively important insights are shared and a common understanding is reached.
 #### Downsides and when to not use
 Consider not using the technique if you expect it could be used to measure the performance of a team for accountability reasons or if psychological safety is lacking.
