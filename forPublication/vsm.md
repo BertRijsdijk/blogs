@@ -4,12 +4,12 @@ You experience that things are slow, and it's hard to finish anything within an 
 You've tried to deliver smaller increments, but it is still a struggle to complete these in a reasonable amount of time. 
 One of the reasons might be that wasteful activities and unnecessary handovers are hiding in your development process. 
 #### A Value Stream Map (VSM) can help you uncover this kinds of waste in your software delivery process
-Value Stream Mapping is a form of lean-management and was one of the foundations that made the Toyota Production System.
-It maps the series of events that take a product or service from the beginning of the specific process (inception) until it reaches the customer. 
+Value Stream Mapping is a form of lean-management and was at the foundation of the Toyota Production System.
+A VSM maps the series of activities that take a product or service from the beginning of the specific process (inception) until it reaches the customer. 
 <br/><br/>
 Even though it stems from a manufacturing world, it can be applied to software as well.
-There it is an extremely helpful technique because of the high cost of of context switching in knowledge work and software development specifically.
-(link to blog the hidden cost of context switching) 
+There it is an extremely helpful technique because of the [high cost of of context switching](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/) in knowledge work and software development specifically.
+ 
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the value stream is gathered (from inception to delivery of the feature to the customers).
 The technique is simple (but the devil is in the details).
@@ -20,7 +20,7 @@ Next, classify each fine-grained task as Customer Value Adding (CVA), Non Value 
 This is harder then it seems and expect a lot of healthy discussion. 
 <br/><br/>
 Add the average processing and wait times for the item.
-It is now possible to calculate cycle efficiency!
+It is now possible to calculate the cycle time/efficiency!
 Do not be surprised if your cycle efficiency is below 30%! 
 <br/><br/>
 Note that the visual and collaboration aspects are important and performing these steps alone will often already lead to ideas for optimizations.
@@ -54,13 +54,10 @@ I tend to focus on the tasks and not work from roles.
 Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of work.
 Still, certain steps do always take place and lead to a picture as below, usually mirroring the CI/CD pipeline with all the human tasks required for each step.
 #### Should I use specialized tooling?
-Tooling exists and can definitely make automation of the calculations easier, as well as repeatability. 
+Tooling exists and can definitely make automation of the calculations easier, as well as repeatability and 
+storing results from specific measurement periods.
 I find the results are better using the walls though.
 The visual aspect of it is important and through collaborating interactively important insights are shared and a common understanding is reached.
-#### Other contexts where Value Stream Mapping can be provide Value
-Creating a DevOps, CI/CD pipeline.
-Finding bottlenecks and understanding the impact of (external) development dependencies.
-All very useful.
 #### Downsides and when to not use
 Consider not using the technique if it you expect it could be used to measure the performance of a team for accountability reasons or if psychological safety is lacking.
 Besides being an undesirable situation it will not work. 
