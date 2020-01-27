@@ -7,7 +7,7 @@ One of the reasons might be that wasteful activities and unnecessary handovers a
 Value Stream Mapping is a form of lean-management and was at the foundation of the Toyota Production System.
 A VSM maps the series of activities that take a product or service from the beginning of the specific process (inception) until it reaches the customer. 
 <br/><br/>
-Even though it stems from a manufacturing world, it can be applied to software as well.
+Even though the technique stems from a manufacturing world, it can be applied to software as well.
 In software development it is an extremely helpful technique because of the [high cost of context switching](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/) in knowledge work and software development specifically.
  
 #### How to do it for a software project?
