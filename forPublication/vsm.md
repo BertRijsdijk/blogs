@@ -2,16 +2,16 @@
 #### You perceive your time to market for new features to be slow and want to speed up
 You experience that things are slow, and it's hard to finish anything within an iteration. 
 You've tried to deliver smaller increments, but it is still a struggle to complete these in a reasonable amount of time. 
-One of the reasons might be that wasteful activities and unnecessary handovers are hiding in your development process. 
+One of the reasons of the perceived slowness might be that wasteful activities and unnecessary handovers are hiding in your development process. 
 #### A Value Stream Map (VSM) can help you uncover these kinds of waste in your software delivery process
 Value Stream Mapping is a form of lean-management and was at the foundation of the Toyota Production System.
-A VSM maps the series of activities that take a product or service from the beginning of the specific process (inception) until it reaches the customer. 
+A VSM maps the series of activities that take a product or service from the beginning of a process (idea) until it reaches the customer. 
 <br/><br/>
-Even though the technique stems from a manufacturing world, it can be applied to software as well.
-In software development it is an extremely helpful technique because of the [high cost of context switching](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/) in knowledge work and software development specifically.
+Even though the technique stems from the manufacturing world, it can be applied to software as well.
+In software development it is an extremely helpful technique because of the [high cost of context switching](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/) in knowledge work and software development in particular.
  
 #### How to do it for a software project?
-I recommend doing it in a workshop format where everyone who is involved in the value stream is gathered (from inception to delivery of the feature to the customers).
+I recommend doing it in a workshop format where everyone who is involved in the delivery process participates to map the activities from inception until deployment into production.
 The technique is simple (but the devil is in the details).
 Choose a few relevant and representative example slices to map the value stream horizontally from left to right. 
 Now vertically map the finer-grained tasks including wait times and possible loops between them.
