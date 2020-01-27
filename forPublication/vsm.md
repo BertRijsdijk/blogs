@@ -17,11 +17,11 @@ Choose a few relevant and representative example slices to map the value stream 
 Now vertically map the finer-grained tasks including wait times and possible loops between them.
 <br/><br/>
 Next, classify each fine-grained task as Customer Value Adding (CVA), Non-Value Adding(NVA) and Waste.
- This is harder then it seems so expect a lot of healthy discussions. s 
+ This is harder then it seems so expect a lot of healthy discussions.
 <br/><br/>
 Add the average processing and wait times for the item.
 It is now possible to calculate the cycle time/efficiency!
-Do not be surprised if your cycle ef ficiency is below 30%! 
+Do not be surprised if your cycle efficiency is below 30%! 
 <br/><br/>
 Note that the visual and collaboration aspects are important and performing these steps alone will often already lead to ideas for optimizations.
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible. 
