@@ -17,16 +17,23 @@ Choose a few relevant and representative example slices to map the value stream 
 Now vertically map the finer-grained tasks including wait times and possible loops between them.
 <br/><br/>
 Next, classify each fine-grained task as Customer Value Adding (CVA), Non-Value Adding(NVA) and Waste.
+
+Difference between Non-Value adding and waste is..,. Keep it simple.
+Use lead time and cycle time
+
  This is harder then it seems so expect a lot of healthy discussions.
 <br/><br/>
 Add the average processing and wait times for the item.
 It is now possible to calculate the cycle time/efficiency!
 Do not be surprised if your cycle efficiency is below 30%! 
+
+Cycle time efficiency is .....
+
 <br/><br/>
-Note that the visual and collaboration aspects are important and performing these steps alone will often already lead to ideas for optimizations.
+Note that the visual and collaboration aspects are important and performing these steps alone will already lead to ideas for optimizations.
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible. 
 #### Can I do it just for the development team?
-You can and it will still be very useful for local optimization.
+You can and it will still be very useful for optimizing the cycle time.
 The advantage is that a team can do it without any dependencies on the rest of the organization.
 It is smaller and is easier to organize.
 Most value is achieved by mapping the complete value stream though. If this is hard to organize in your project this could point to an 
@@ -35,7 +42,7 @@ organizational and/or cultural problem.
 Yes, a client I helped recently had a double code review (one in the team and one outside). The huge amount of handovers 
 and wait times had always been hidden but now became visible to the teams. Because of all the waiting teams would switch to other tasks.
 Effectively everything was in progress at the same time. After a tough discussion, we convinced one of the teams to experiment 
-with pair programming. Besides knowledge sharing this greatly reduced the cycle efficiency (as much as 25%!) creating an upward spiral for
+with pair programming. Besides knowledge sharing this greatly reduced the amount of waste (we cut it in half!) creating an upward spiral for
 the team. 
 <br/><br/>
 Another client had a Product Owner signoff task which on average took several days to be completed, mostly consisting of
@@ -47,7 +54,8 @@ In Scrum, the three pillars Transparency, Inspection and Adaptation should enabl
 self organize, optimize (and eliminate waste). In reality, teams with various maturity levels struggle 
 to do so. Often they are not aware of the wasteful nature of certain activities and the hidden cost of handovers so they
 do not try to optimize for this.
-Scrum masters and Agile Coaches often fail to effectively facilitate and challenge teams in this area. 
+
+It can be hard for Scrum masters and Agile Coaches effectively facilitate and challenge teams in this area. 
 <br/><br/>
 I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO, and SM.
 I tend to focus on the tasks and not work from roles.
