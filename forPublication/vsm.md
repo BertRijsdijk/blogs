@@ -23,37 +23,28 @@ Writing code -> CVA
 Running CI pipeline, execute automated tests -> NNVA
 Wait for code review -> Waste
 
-
-Use lead time and cycle time
-
- This is harder then it seems so expect a lot of healthy discussions.
-<br/><br/>
-Add the average processing and wait times for the item.
-It is now possible to calculate the cycle time/efficiency!
-Do not be surprised if your cycle efficiency is below 30%! 
-
-Cycle time efficiency is .....
+Think about it: It is now possible to calculate the cycle time and cycle efficiency!
+Explain cycle efficiency
 
 <br/><br/>
-Note that the visual and collaboration aspects are important and performing these steps alone will already lead to ideas for optimizations.
+Note that the visual and collaboration aspects are important and performing these steps will already lead to ideas for optimizations.
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible. 
+
 #### Can I do it just for the development team?
 You can and it will still be very useful for optimizing the cycle time.
 The advantage is that a team can do it without any dependencies on the rest of the organization.
 It is smaller and is easier to organize.
-Most value is achieved by mapping the complete value stream though. If this is hard to organize in your project this could point to an 
-organizational and/or cultural problem.
-#### Could you share some examples of waste that were identified and quantified by a VSM?
+Most value is achieved by mapping the complete value stream though. If involving everyone is hard you might just have discovered an organizational and/or cultural problem.
+#### Could you share some examples of waste that were identified with the help of a VSM?
 Yes, a client I helped recently had a double code review (one in the team and one outside). The huge amount of handovers 
-and wait times had always been hidden but now became visible to the teams. Because of all the waiting teams would switch to other tasks.
-Effectively everything was in progress at the same time. After a tough discussion, we convinced one of the teams to experiment 
-with pair programming. Besides knowledge sharing this greatly reduced the amount of waste (we cut it in half!) creating an upward spiral for
-the team. 
+and wait times had always been hidden but now became visible to the teams. Because of all the waiting, teams would switch to other tasks which effectively meant that everything was in progress at the same time. 
+
+After a tough discussion, we convinced one of the teams to experiment with pair programming. Besides knowledge sharing this greatly reduced the amount of waste. It made them 33% faster(!) creating an upward spiral and motivation for the team. 
 <br/><br/>
-Another client had a Product Owner signoff task which on average took several days to be completed, mostly consisting of
-wait time. In this case, the development teams were very aware of the problem but the VSM exercise helped convince the 
-Product Owner through data that this quality gate was incredibly expensive. It became clear that the PO needed 
-to work more closely with the team throughout the iteration instead of validating features after implementation. 
+Another client had a Product Owner signoff step which on average took several days to start, adding waste to the process.
+The development teams were very aware of the problem but the VSM exercise helped convince the 
+Product Owner through data that this quality gate was incredibly expensive and would lead to context switching. 
+It became clear that the PO needed to work more closely with the team throughout the iteration instead of validating features after implementation. 
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
 In Scrum, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
 self organize, optimize (and eliminate waste). In reality, teams with various maturity levels struggle 
