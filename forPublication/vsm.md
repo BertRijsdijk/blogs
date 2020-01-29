@@ -45,7 +45,7 @@ Another client had a Product Owner signoff step which on average took several da
 The development teams were very aware of the problem but the VSM exercise helped convince the 
 Product Owner through data that this quality gate was incredibly expensive and would lead to context switching. 
 It became clear that the PO needed to work more closely with the team throughout the iteration instead of validating features after implementation. 
-<br/><br/>When you do it you will be surprised by the insights what the data shows!
+You will be surprised by the insights what the data shows!
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
 In Scrum, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
 self organize, optimize and eliminate waste. In reality, teams with various maturity levels struggle 
