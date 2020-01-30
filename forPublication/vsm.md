@@ -16,7 +16,7 @@ The technique is simple but the devil is in the details.
 
 Choose a few relevant and representative tickets that the team has recently completed to map all the activities involved in delivery. For example: Writing code, wait for code review, creating documentation, etc.
 
-Next, classify each activity as Customer Value Adding (CVA), Necessary Non-Value Adding(NNVA) and Waste.
+Next, classify each activity as Customer Value Adding (CVA), Necessary Non-Value Adding (NNVA) and Waste.
 
 In the above example the activities would be classified as following:
 Writing code -> CVA,
@@ -25,7 +25,7 @@ Wait for code review -> Waste
 
 It is now possible to calculate the cycle efficiency. The outcome will be a baseline for your teams from which you improve.
 <br/><br/>
-Note that I prefer a workshop format because the visual and collaboration aspects are important and performing these steps will already lead to ideas for optimizations.
+Note that the visual and collaboration aspects are important and performing these steps will already lead to ideas for optimizations.
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible. 
 
 #### Can I do it just for the development team?
