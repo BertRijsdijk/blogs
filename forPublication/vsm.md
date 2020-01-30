@@ -26,7 +26,7 @@ Wait for code review -> Waste
 
 It is now possible to calculate the cycle efficiency. The outcome will be a baseline for your teams from which you improve.
 <br/><br/>
-Note that the visual and collaboration aspects are important and performing these steps in a workshop will already lead to ideas for optimizations.
+Note that I prefer a workshop format because the visual and collaboration aspects are important and performing these steps will already lead to ideas for optimizations.
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible. 
 
 #### Can I do it just for the development team?
