@@ -35,7 +35,7 @@ It is smaller and is easier to organize.
 Most value is achieved by mapping the complete value stream though. If involving everyone is hard you might just have discovered an organizational and/or cultural problem.
 #### Could you share some examples of waste that were identified with the help of a VSM?
 Yes, a client I helped recently had a double code review (one in the team and one outside). The huge amount of handovers 
-and wait times had always been hidden but now became visible to the teams. Because of all the waiting, teams would switch to other tasks which effectively meant that everything was in progress at the same time, leading to more complexity and [loss of focus](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/)
+and wait times had always been hidden but now became visible to the teams. Because of all the waiting, teams would switch to other tasks which effectively meant that everything was in progress at the same time, leading to more complexity and [loss of focus](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/).
 
 After a tough discussion, we convinced one of the teams to experiment with pair programming. Besides knowledge sharing this greatly reduced the amount of waste. It made them 33% faster(!) creating an upward spiral and motivation for the team. 
 <br/><br/>
