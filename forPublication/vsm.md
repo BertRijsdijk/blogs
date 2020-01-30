@@ -8,7 +8,7 @@ Value Stream Mapping is a form of lean-management and was at the foundation of t
 A VSM maps the series of activities that take a product or service from the beginning of a process (idea) until it reaches the customer. 
 <br/><br/>
 Even though the technique stems from the manufacturing world, it can be applied to software as well.
-In software development in particular, it is a helpful technique because of the [high cost of context switching](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/) associated with wait times.
+In software development in particular, it is a helpful technique because of the [high cost of context switching](https://www.scruminc.com/multitasking/) associated with wait times.
  
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the delivery process participates to map the activities from inception until deployment into production.
@@ -35,7 +35,7 @@ It is smaller and is easier to organize.
 Most value is achieved by mapping the complete value stream though. If involving everyone is hard you might just have discovered an organizational and/or cultural problem.
 #### Could you share some examples of waste that were identified with the help of a VSM?
 Yes, a client I helped recently had a double code review (one in the team and one outside). The huge amount of handovers 
-and wait times had always been hidden but now became visible to the teams. Because of all the waiting, teams would switch to other tasks which effectively meant that everything was in progress at the same time. 
+and wait times had always been hidden but now became visible to the teams. Because of all the waiting, teams would switch to other tasks which effectively meant that everything was in progress at the same time, leading to more complexity and [loss of focus](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/)
 
 After a tough discussion, we convinced one of the teams to experiment with pair programming. Besides knowledge sharing this greatly reduced the amount of waste. It made them 33% faster(!) creating an upward spiral and motivation for the team. 
 <br/><br/>
