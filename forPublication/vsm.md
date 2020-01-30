@@ -19,13 +19,11 @@ Choose a few relevant and representative tickets that the team has recently comp
 Next, classify each activity as Customer Value Adding (CVA), Necessary Non-Value Adding(NNVA) and Waste.
 
 In the above example the activities would be classified as following:
-Writing code -> CVA
-Running CI pipeline, execute automated tests -> NNVA
+Writing code -> CVA,
+Running CI pipeline, execute automated tests -> NNVA,
 Wait for code review -> Waste
 
-It is now possible to calculate the cycle time and cycle efficiency!
-TODO: Explain cycle efficiency
-
+It is now possible to calculate the cycle efficiency. The outcome will be a baseline for your team from which you improve.
 <br/><br/>
 Note that the visual and collaboration aspects are important and performing these steps will already lead to ideas for optimizations.
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible. 
