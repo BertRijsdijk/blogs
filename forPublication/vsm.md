@@ -23,7 +23,7 @@ Writing code -> CVA,
 Running CI pipeline, execute automated tests -> NNVA,
 Wait for code review -> Waste
 
-It is now possible to calculate the cycle efficiency. The outcome will be a baseline for your teams from which you improve.
+It is now possible to calculate the cycle efficiency by dividing the sum of CVA by the total lead time. The outcome will be a baseline for your teams from which you improve!
 <br/><br/>
 Note that the visual and collaboration aspects are important and performing these steps will already lead to ideas for optimizations.
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible. 
