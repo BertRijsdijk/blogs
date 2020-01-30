@@ -14,13 +14,12 @@ In software development in particular, it is a helpful technique because of the 
 I recommend doing it in a workshop format where everyone who is involved in the delivery process participates to map the activities from inception until deployment into production.
 The technique is simple but the devil is in the details.
 
-Choose a few relevant and representative tickets that the team has recently completed to map all the activities involved in delivery. For example: Writing code, wait for code review, execute automated tests, etc.
+Choose a few relevant and representative tickets that the team has recently completed to map all the activities involved in delivery. For example: Writing code, wait for code review, creating documentation, etc.
 
-Next, classify each activity as Customer Value Adding (CVA), Business Value Adding (BVA), Necessary Non-Value Adding(NNVA) and Waste.
+Next, classify each activity as Customer Value Adding (CVA), Necessary Non-Value Adding(NNVA) and Waste.
 
 In the above example the activities would be classified as following:
 Writing code -> CVA,
-Creating developer documentation -> BVA,
 Running CI pipeline, execute automated tests -> NNVA,
 Wait for code review -> Waste
 
