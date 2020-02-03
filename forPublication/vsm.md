@@ -32,7 +32,6 @@ The visual and collaboration aspects are important and the mapping of your proce
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations. By regularly updating the VSM you will help make the growth of a team more tangible.
 Therefor, I would even go so far to say that the collaboration is the most important aspect of VSM. 
 
-
 #### Can I do it just for the development team?
 You can and it will still be very useful for optimizing the cycle time of the development team.
 The advantage is that a team can do it without any dependencies on the rest of the organization.
