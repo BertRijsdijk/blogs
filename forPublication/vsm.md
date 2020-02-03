@@ -1,4 +1,6 @@
 ![](../parachute.jpg)
+##Get value faster by eliminating waste through Value Stream Mapping
+
 #### You perceive your time to market for new features to be slow and want to speed up
 You experience that things are slow, and it's hard to finish anything within an iteration. 
 You've tried to deliver smaller increments, but it is still a struggle to complete these in a reasonable amount of time. 
@@ -8,8 +10,9 @@ Value Stream Mapping is a form of lean-management and was at the foundation of t
 A VSM maps the series of activities that take a product or service from the beginning of a process (idea) until it reaches the customer. 
 <br/><br/>
 Even though the technique stems from the manufacturing world, it can be applied to software as well.
-In software development in particular, it is a helpful technique because of the [high cost of context switching](https://34slpa7u66f159hfp1fhl9aur1-wpengine.netdna-ssl.com/wp-content/uploads/2015/06/Slide093.jpg) associated with wait times.
- 
+In software development in particular, it is a helpful technique because of the [high cost of context switching](https://34slpa7u66f159hfp1fhl9aur1-wpengine.netdna-ssl.com/wp-content/uploads/2015/06/Slide093.jpg) associated with wait times.  
+
+Creating a VSM often leads to double digit efficiency improvements, giving a fast ROI and making coaching efforts more visible.
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the delivery process participates to map the activities from inception until deployment into production.
 The technique is simple but the devil is in the details.
@@ -32,7 +35,7 @@ Next to that, it can also bring an increased level of empathy in the case of sil
 You can and it will still be very useful for optimizing the cycle time.
 The advantage is that a team can do it without any dependencies on the rest of the organization.
 It is smaller and is easier to organize.
-Most value is achieved by mapping the complete value stream though. If involving everyone is hard you might just have discovered an organizational and/or cultural problem.
+Most value is achieved by mapping the complete value stream all the way from inception until roll-out though. If involving everyone is hard you might just have discovered an organizational and/or cultural problem.
 #### Could you share some examples of waste that were identified with the help of a VSM?
 Yes, a client I helped recently had a double code review (one in the team and one outside). The huge amount of handovers 
 and wait times had always been hidden but now became visible to the teams. Because of all the waiting, teams would switch to other tasks which effectively meant that everything was in progress at the same time, leading to more complexity and [loss of focus](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/).
@@ -55,7 +58,7 @@ It can be hard for Scrum masters and Agile Coaches effectively facilitate and ch
 I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO, and SM.
 I tend to focus on the activites and not work from roles.
 Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of work.
-Still, certain steps do always take place and lead to a picture as below, usually mirroring the CI/CD pipeline with all the human activities required for each step.
+Still, certain steps do always take place and lead to a result which usually mirrors the CI/CD pipeline with all the human activities required for each step.
 #### Should I use specialized tooling?
 Tooling exists and can make the automation of the calculations easier, as well as repeatability and 
 storing results from specific measurement periods.
