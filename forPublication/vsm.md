@@ -6,7 +6,7 @@ You experience that things are slow, and it's hard to finish anything within an 
 You've tried to deliver smaller increments, but it is still a struggle to complete these in a reasonable amount of time. 
 One of the reasons of the perceived slowness might be that wasteful activities and unnecessary handovers are hiding in your development process. 
 #### A Value Stream Map (VSM) can help you uncover these kinds of waste in your software delivery process
-Value Stream Mapping is a form of lean-management and was at the foundation of the Toyota Production System.
+Value Stream Mapping is a form of lean-management and was at the foundation of the Toyota Production System as part of continuous improvement.
 A VSM maps the series of activities that take a product or service from the beginning of a process (idea) until it reaches the customer. 
 <br/><br/>
 Even though the technique stems from the manufacturing world, it can be applied to software as well.
@@ -26,11 +26,11 @@ Writing code -> CVA,
 Running CI pipeline, execute automated tests -> NNVA,
 Wait for code review -> Waste
 
-It is now possible to calculate the cycle efficiency by dividing the sum of CVA by the total lead time. The outcome will be a baseline for your teams from which you improve!
+It is now possible to calculate the cycle efficiency by dividing the sum of CVA by the total lead time. Elaborate examples of this can be found elsewhere. What matters is that the outcome will be a baseline for your teams from which you improve!
 <br/><br/>
-Note that the visual and collaboration aspects are important and the mapping of your process will already lead to ideas for optimizations. 
-Next to that, it can also bring an increased level of empathy in the case of siloed organizations and you will help make the growth of a team more tangible.
-Therefor, I would even go so far to say that the collaboration is the most important aspect of VSM.  
+The visual and collaboration aspects are important and the mapping of your process will already lead to ideas for optimizations. 
+Next to that, it can also bring an increased level of empathy in the case of siloed organizations and by regularly updating the VSM you will help make the growth of a team more tangible.
+Therefor, I would even go so far to say that the collaboration is the most important aspect of VSM. 
 
 
 #### Can I do it just for the development team?
