@@ -6,7 +6,7 @@ You experience that things are slow, and it's hard to finish anything within an 
 You've tried to deliver smaller increments, but it is still a struggle to complete these in a reasonable amount of time. 
 One of the reasons of the perceived slowness might be that wasteful activities and unnecessary handovers are hiding in your development process. 
 #### A Value Stream Map (VSM) can help you uncover these kinds of waste in your software delivery process
-Value Stream Mapping is a form of lean-management and was at the foundation of the Toyota Production System as part of continuous improvement.
+Value Stream Mapping is a form of lean-management and was at the foundation of the Toyota Production System.
 A VSM maps the series of activities that take a product or service from the beginning of a process (idea) until it reaches the customer. 
 <br/><br/>
 Even though the technique stems from the manufacturing world, it can be applied to software as well.
