@@ -12,7 +12,7 @@ A VSM maps the series of activities that take a product or service from the begi
 Even though the technique stems from the manufacturing world, it can be applied to software as well.
 In software development in particular, it is a helpful technique because of the [high cost of context switching](https://34slpa7u66f159hfp1fhl9aur1-wpengine.netdna-ssl.com/wp-content/uploads/2015/06/Slide093.jpg) associated with wait times.  
 
-Creating a VSM is a bit of an investment but very often leads to double digit-efficiency improvements. Updating the VSM over time gives you an insight about how your teams grow.
+Creating a VSM is a bit of an investment but very often leads to double digit-efficiency improvements. Updating the VSM over time gives you an insight into how your teams grow.
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the delivery process participates to map the activities from inception until deployment into production.
 The technique is simple but the devil is in the details.
@@ -30,7 +30,7 @@ It is now possible to calculate the cycle efficiency by dividing the sum of CVA 
 <br/><br/>
 The visual and collaboration aspects are important and the mapping of your process will already lead to ideas for optimizations. 
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations. By regularly updating the VSM you will help make the growth of a team more tangible.
-Therefor, I would even go so far to say that the collaboration is the most important aspect of VSM. 
+Therefore, I would even go so far as to say that the collaboration is the most important aspect of VSM. 
 
 #### Can I do it just for the development team?
 You can and it will still be very useful for optimizing the cycle time of the development team.
@@ -47,17 +47,17 @@ Another client had a Product Owner signoff step which on average took several da
 The development teams were very aware of the problem but the VSM exercise helped convince the 
 Product Owner through data that this quality gate was incredibly expensive and would lead to context switching. 
 It became clear that the PO needed to work more closely with the team throughout the iteration instead of validating features after implementation. 
-You will be surprised by the insights what the data shows!
+You will be surprised by the insights about what the data shows!
 #### We are doing Scrum. I've been told a VSM does not apply for Scrum teams
 In Scrum, the three pillars Transparency, Inspection and Adaptation should enable autonomous, T-shaped teams to 
 self organize, optimize and eliminate waste. In reality, teams with various maturity levels struggle 
 to do so. Often they are not aware of the wasteful nature of certain activities and the hidden cost of handovers so they
 do not try to optimize for this.
 
-It can be hard for Scrum masters and Agile Coaches effectively facilitate and challenge teams in this area. 
+It can be hard for Scrum Masters and Agile Coaches effectively facilitate and challenge teams in this area. 
 <br/><br/>
 I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO, and SM.
-I tend to focus on the activites and not work from roles.
+I tend to focus on the activities and not work from roles.
 Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of work.
 Still, certain steps do always take place and lead to a result which usually mirrors the CI/CD pipeline with all the human activities required for each step.
 #### Should I use specialized tooling?
