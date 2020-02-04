@@ -26,11 +26,11 @@ Writing code -> CVA,
 Running CI pipeline, execute automated tests -> NNVA,
 Wait for code review -> Waste
 
-It is now possible to calculate the cycle efficiency by dividing the sum of CVA by the total lead time. Elaborate and contradicting examples and terminology of this calculation can be found all over the internet. What matters is that the outcome will be a baseline for your teams from which you improve!
+It is now possible to calculate the cycle efficiency by dividing the sum of CVA by the total lead time. The outcome will be a baseline for your teams from which you improve!
 <br/><br/>
 The visual and collaboration aspects are important and the mapping of your process will already lead to ideas for optimizations. 
 Next to that, it can also bring an increased level of empathy in the case of siloed organizations. By regularly updating the VSM you will help make the growth of a team more tangible.
-Therefore, I would even go so far as to say that the collaboration is the most important aspect of VSM. 
+I would even go so far as to say that the collaboration is the most important aspect of VSM. 
 
 #### Can I do it just for the development team?
 You can and it will still be very useful for optimizing the cycle time of the development team.
