@@ -58,13 +58,13 @@ It can be hard for Scrum Masters and Agile Coaches effectively facilitate and ch
 <br/><br/>
 I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO, and SM.
 I tend to focus on the activities and not work from roles.
-Furthermore (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of work.
+Furthermore, (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of work.
 Still, certain steps do always take place and lead to a result which usually mirrors the CI/CD pipeline with all the human activities required for each step.
 #### Should I use specialized tooling?
 Tooling exists and can make the automation of the calculations easier, as well as repeatability and 
 storing results from specific measurement periods.
 I find the results are better using sharpies and stickies on a physical board.
-The visual aspect of it is important and through collaborating interactively important insights are shared and a common understanding is reached.
+The visual aspect of it is significant; through collaborating interactively important insights are derived and a shared understanding is reached.
 #### Downsides and when not to use a VSM
 Consider not using the technique if you expect it might be used to measure the performance of a team and be used against them or when psychological safety is lacking.
 When safety is missing or fragile it will impact the spirit and creativity of the session which will not work.
