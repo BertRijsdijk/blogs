@@ -12,7 +12,7 @@ A VSM maps the series of activities that take a product or service from the begi
 Even though the technique stems from the manufacturing world, it can be applied to software as well.
 In software development, in particular, it is a helpful technique because of the [high cost of context switching](https://34slpa7u66f159hfp1fhl9aur1-wpengine.netdna-ssl.com/wp-content/uploads/2015/06/Slide093.jpg) associated with wait times.  
 
-Creating a VSM is a bit of an investment but very often leads to double digit-efficiency improvements. Updating the VSM over time gives you an insight into how your teams grow.
+Creating a VSM is a bit of an investment but very often leads to double digit-efficiency improvements. Updating the VSM over time gives you an insight into how your teams grow. ![](../vsm-1.png)
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the delivery process participates in mapping the activities from inception until deployment into production.
 The technique is simple, applying it requires some practice.
