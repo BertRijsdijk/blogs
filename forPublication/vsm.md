@@ -1,5 +1,5 @@
 ![](../parachute.png)
-## Eliminating waste through Value Stream Mapping
+## Using Value Stream Mapping to eliminate waste
 
 #### You perceive your time to market for new features to be slow and want to speed up
 You experience that things are slow, and it's hard to finish anything within an iteration. 
