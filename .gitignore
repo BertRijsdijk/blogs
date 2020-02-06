@@ -68,3 +68,6 @@ screenshots/
 #intelij config
 /.idea
 *.iml
+
+#filesystem stuff
+.DS_Store
