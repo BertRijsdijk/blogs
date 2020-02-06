@@ -77,5 +77,5 @@ VSM's can help you make inefficiencies in the development process visible.
 In my opinion, a VSM is an essential element in the toolbox of any coach.
 Furthermore, for teams, it tends to be inspiring and can help kickstart a culture of continuous improvement. 
 Last but not least, a VSM can make team progress and coaching results more tangible.
-Try it!
+Try it!<br/><br/>
 ![](../maxresdefault.jpg)
