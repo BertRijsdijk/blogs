@@ -59,7 +59,7 @@ It can be hard for Scrum Masters and Agile Coaches effectively facilitate and ch
 I do make some adjustments for Scrum: The only official roles in a Scrum team are Dev, PO, and SM.
 I tend to focus on the activities and not work from roles.
 Furthermore, (mature) Scrum teams tend to be less rigid and more fluid in terms of the flow of work.
-Still, certain steps do always take place and lead to a result which usually mirrors the CI/CD pipeline with all the human activities required for each step.
+Still, certain steps do always take place and lead to a result which usually mirrors the CI/CD pipeline with all the human activities required before commit.
 #### Should I use specialized tooling?
 Tooling exists and can make the automation of the calculations easier, as well as repeatability and 
 storing results from specific measurement periods.
