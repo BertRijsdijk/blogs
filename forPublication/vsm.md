@@ -21,7 +21,7 @@ Choose a few relevant and representative tickets that the team has recently comp
 
 Next, classify each activity as Customer Value Adding (CVA), Necessary Non-Value Adding (NNVA), and Waste.
 
-In the above example the activities would be classified as following:
+In the above example I would classify the activities as following.
 Writing code -> CVA,
 Running CI pipeline, execute automated tests -> NNVA,
 Wait for code review -> Waste
@@ -75,7 +75,7 @@ Estimates will usually do fine!
 #### Conclusions
 VSM's can help you make inefficiencies in the development process visible.
 In my opinion, a VSM is an essential element in the toolbox of any coach.
-Furthermore, for teams, it tends to be inspiring and can help kickstart a culture of continuous improvement.
+Furthermore, for teams, it tends to be inspiring and can help kickstart a culture of continuous improvement. 
 Last but not least, a VSM can make team progress and coaching results more tangible.
 Try it!
 ![](../maxresdefault.jpg)
