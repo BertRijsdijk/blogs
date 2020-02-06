@@ -1,5 +1,5 @@
 ![](../parachute.jpg)
-## Get value faster by eliminating waste through Value Stream Mapping
+## Eliminating waste through Value Stream Mapping
 
 #### You perceive your time to market for new features to be slow and want to speed up
 You experience that things are slow, and it's hard to finish anything within an iteration. 
@@ -15,7 +15,7 @@ In software development, in particular, it is a helpful technique because of the
 Creating a VSM is a bit of an investment but very often leads to double digit-efficiency improvements. Updating the VSM over time gives you an insight into how your teams grow.
 #### How to do it for a software project?
 I recommend doing it in a workshop format where everyone who is involved in the delivery process participates in mapping the activities from inception until deployment into production.
-The technique is simple, but the devil is in the details.
+The technique is simple, applying it requires some practice.
 
 Choose a few relevant and representative tickets that the team has recently completed to map all the activities involved in the delivery process. For example, Writing code, wait for code review, creating documentation, etc.
 
