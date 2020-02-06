@@ -1,3 +1,4 @@
+![](../parachute.png)
 ## Eliminating waste through Value Stream Mapping
 
 #### You perceive your time to market for new features to be slow and want to speed up
