@@ -8,7 +8,7 @@ don't tell the story from the end-user perspective. For instance, all services c
 Functional Monitoring helps to bridge the gap between technical metrics and real user impact, greatly enhancing overall observability of the system.
 
 ## But which kind of Functional Monitoring?
-We've come up with 4 distinct but complementary types and categorized them into what we call the _Functional Monitoring Quadrants_.  
+We've come up with 4 complementary types of Monitoring and categorized them into what we call the _Functional Monitoring Quadrants_.  
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
 versus simulated activity, also know as _synthetic testing_ or _testing in production_.
@@ -16,8 +16,8 @@ versus simulated activity, also know as _synthetic testing_ or _testing in produ
 On the vertical axis we differentiate activity which is direct user-facing 
 versus activity which is  _implementation facing_. These tells us something about functional correctness but the relation to the used is _indirect_.
 
-All of these kinds of Monitoring give us specific insights, while they also have their
-own limitations. Let's look at some examples to learn more
+All of these different perspecitves matter and give us specific insights, while they also have their
+own limitations. Together they for a complete pcitre. Let's look at the examples to learn more
 
 ###Functional Monitoring Quadrants
 ![](../functional_monitoring_quadrants_improved.jpeg)
