@@ -1,5 +1,5 @@
 ## Why Functional Monitoring?
-Monitoring is as a crucial part of a successful Continuous Delivery strategy. Yet, we see that monitoring often 
+Monitoring is as a crucial part of successful Continuous Delivery. Yet, we see that monitoring often 
 is primarily focussed on technical metrics like instance health and error rate. 
 
 These metrics are useful but
@@ -7,17 +7,20 @@ don't tell the story from the end-user perspective. For instance, all services c
 
 Functional Monitoring helps to bridge the gap between technical metrics and real user impact, greatly enhancing overall observability of the system.
 
-## But which kind of Functional Monitoring?
+## But which kinds of Functional Monitoring?
 We've come up with 4 complementary types of Monitoring and categorized them into what we call the _Functional Monitoring Quadrants_.  
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
 versus simulated activity, also know as _synthetic testing_ or _testing in production_.
 
 On the vertical axis we differentiate activity which is direct user-facing 
-versus activity which is  _implementation facing_. These tells us something about functional correctness but the relation to the used is _indirect_.
+versus activity which is  _implementation facing_. These tells us something about functional correctness but the relation to the user is _indirect_.
+
+In each Quadrant we defined the single kind of test which we think is most suitable. 
+It might be possible to come up with other tests too.
 
 All of these different perspecitves matter and give us specific insights, while they also have their
-own limitations. Together they for a complete pcitre. Let's look at the examples to learn more
+own limitations. Together they for a complete picture. Let's look at the examples to learn more.
 
 ### Functional Monitoring Quadrants
 ![](../functional_monitoring_quadrants_improved.jpeg)
@@ -28,7 +31,7 @@ own limitations. Together they for a complete pcitre. Let's look at the examples
 
 ![](../checkout_flow.png)
 
-Consider the example case. We will implement Functional Monitoring in a checkout-flow. 
+_Consider this example case_. We will implement Functional Monitoring in a checkout-flow. 
 It consists of 3 steps:
 - Customer Details
 - Shipping
