@@ -1,21 +1,24 @@
 ## Why Functional Monitoring?
-Monitoring is as a crucial part of a successful Continuous Delivery strategy. Yet, monitoring often 
+Monitoring is as a crucial part of a successful Continuous Delivery strategy. Yet, we see that monitoring often 
 is primarily focussed on technical metrics like instance health and error rate. 
 
 These metrics are useful but
-don't tell the real story from the end-user perspective. For instance, all services could be "green", while our customers experience broken functionality. 
+don't tell the story from the end-user perspective. For instance, all services could be "green", while our customers experience broken functionality. 
 
-Functional Monitoring helps to understand if the system works from a usage perspective.
+Functional Monitoring helps to bridge the gap between technical metrics and real user impact, greatly enhancing overall observability of the system.
 
-## How do I start with Functional Monitoring?
-To help us reason about Functional Monitoring and decide on a strategy we came up with a categorisation of 
-4 distinct but complementary types which nicely fit in a quadrant, lets call it the Functional Monitoring Quadrants  
+## But which kind of Functional Monitoring?
+To help us reason about Functional Monitoring we came up with a categorisation of 
+4 distinct but complementary types which turned out to nicely fit in a quadrant, the Functional Monitoring Quadrants.  
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
-as opposed to simulated activity also know as synthetic testing.
+versus simulated activity, also know as synthetic testing or testing in production.
 
 On the vertical axis we differentiate activity which is direct user-facing 
 versus indirect user-facing or implementation facing.
+
+All of these kinds of Monitoring give us specific insights, while they also have their
+own limitations. Let's look at some examples to learn more
 
 ###Functional Monitoring Quadrants
 ![](../functional_monitoring_quadrants_improved.jpeg)
@@ -26,14 +29,23 @@ versus indirect user-facing or implementation facing.
 
 ![](../checkout_flow.png)
 
-Consider the example here.
+Consider the example case. We will implement Functional Monitoring in a checkout-flow. 
+It consists of 3 steps:
+- Customer Details
+- Shipping
+- Payment
+
+We have some integrations with internal and external services, for instance an external service to check the customer address.
+We want to be in control and not blindly rely on the external service
+
+How could we approach this? What kind of monitoring can we do in each quadrant ?
 
 ###User Flow Monitoring
-####Goal
-Measure availability and performance of a critical business flow from the user’s perspective.
+####Why?
+I want to measure availability and performance of a critical business flow from the user’s perspective.
 ####Example
 I play a recorded checkout flow through the user's
-perspective. I measure that the scenario works end-to-end
+perspective. I measure that the scenario works end-to-end, the flow can be completed and how long it takes
 ####Limitation
 Assumption based happy flow. Users might follow a different path with unexpected problems, these will not be found pro-actively.
 Subject to continuous maintenance.
