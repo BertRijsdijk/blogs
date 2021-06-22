@@ -19,12 +19,12 @@ versus activity which is  _implementation facing_. These tells us something abou
 All of these different perspecitves matter and give us specific insights, while they also have their
 own limitations. Together they for a complete pcitre. Let's look at the examples to learn more
 
-###Functional Monitoring Quadrants
+### Functional Monitoring Quadrants
 ![](../functional_monitoring_quadrants_improved.jpeg)
 
 
-##Functional Monitoring by Example
-###Case study: A checkout flow
+## Functional Monitoring by Example
+### Case study: A checkout flow
 
 ![](../checkout_flow.png)
 
@@ -39,44 +39,44 @@ We want to be in control and not blindly rely on the external service
 
 How could we approach this checkout flow? What kind of monitoring can we do in each quadrant ? Let's dive in
 
-###Quadrant 1: User Flow Monitoring
-####Why?
+### Quadrant 1: User Flow Monitoring
+#### Why?
 I measure availability and performance of a critical business flow from the user’s perspective.
-####Example
+#### Example
 I play a recorded checkout flow through the user's
 perspective. I measure that the scenario works end-to-end, the flow can be completed and how long it takes
-####Limitation
+#### Limitation
 Assumption based happy flow. Users might follow a different path with unexpected problems, these will not be found pro-actively.
 Subject to continuous maintenance.
 
-###Quadrant 2: Real User Monitoring
-####Goal
+### Quadrant 2: Real User Monitoring
+#### Goal
 Measure actual usability and performance of the website from the customers perspective.
-####Example
+#### Example
 I insert JavaScript (client-side code) to measure where
 customers drop off, or experience slowness.
-####Limitations
+#### Limitations
 Less data when there is less usage (e.g., at night). Performance measurements are impacted by the capabilities of devices and connectivity of the user.
 
-###Quadrant 3: Business Metrics 
-####Goal
+### Quadrant 3: Business Metrics 
+#### Goal
 Use data from the different applications to get insights into the business goals to determine if there is an anomaly.
-####Example
+#### Example
 I measure the orders over time to detect whether I get
 less orders then expected.
-####Limitation
+#### Limitation
 Anomaly Detection Less valuable when there is a low amount of traffic.
 
-###Quadrant 4: API Endpoint Monitoring
-####Goal
+### Quadrant 4: API Endpoint Monitoring
+#### Goal
 Measure that the individual calls give the functionally correct responses, so incorrectness is detected fast.
-####Example
+#### Example
 I check that the payment-options call gives me the correct
 payment options.
-####Limitation
+#### Limitation
 Small checks, you only measure the parts but not the sum of the parts.
 
-##Best practices
+## Best practices
 • Identify the most critical flow(s)\
 <br/>
 • Start with one flow and learn\
@@ -89,5 +89,5 @@ Small checks, you only measure the parts but not the sum of the parts.
 <br/>
 • Exclude from A/B testing and Analytics\
 
-##Conclusion
+## Conclusion
 We've seen examples of a test in each Quadrant. It really depends on your situation the amount   you probably need them all to some extent
