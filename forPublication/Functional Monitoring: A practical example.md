@@ -1,30 +1,27 @@
 ## Why Functional Monitoring?
-Monitoring is as a crucial part of a successful Continuous Delivery strategy. Yet, monitoring is often 
+Monitoring is as a crucial part of a successful Continuous Delivery strategy. Yet, monitoring often 
 is primarily focussed on technical metrics like instance health and error rate. 
 
 These metrics are useful but
-don't tell the whole story because the end-user perspective is missing. For instance, all services could be "green", yet our customers are not able to log in. 
+don't tell the real story from the end-user perspective. For instance, all services could be "green", while our customers experience broken functionality. 
 
-Functional Monitoring helps to know the system from and end-user perspective
+Functional Monitoring helps to understand if the system works from a usage perspective.
 
 ## How do I start with Functional Monitoring?
-To help develop thinking around the topic and to come to an effective strategy we categorized different types of 
-Functional Monitoring. Each with 
+To help us reason about Functional Monitoring and decide on a strategy we came up with a categorisation of 
+4 distinct but complementary types which nicely fit in a quadrant, lets call it the Functional Monitoring Quadrants  
 
-The Functional Monitoring Quadrants consist of 2 axes. 
+On the horizontal axis we differentiate activity that is coming from actual usage 
+as opposed to simulated activity also know as synthetic testing.
 
-First we differentiate activity that is coming from actual usage 
-versus Synthetic Testing a.k.a.Testing in Production.
-
-Then we differentiate U
-
-
+On the vertical axis we differentiate activity which is direct user-facing 
+versus indirect user-facing or implementation facing.
 
 ###Functional Monitoring Quadrants
 ![](../functional_monitoring_quadrants_improved.jpeg)
 
 
-
+## Functional Monitoring by Example
 ### Case study: A checkout flow
 
 ![](../checkout_flow.png)
@@ -71,3 +68,4 @@ Anomaly Detection Less valuable when there is a low amount of traffic.
 
 
 est stability
+you probably need them all to some extent
