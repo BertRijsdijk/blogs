@@ -18,7 +18,7 @@ On the horizontal axis we differentiate activity that is coming from actual usag
 versus simulated activity, also know as _synthetic testing_ or _testing in production_.
 
 On the vertical axis we differentiate activity which is direct user-facing 
-versus activity which is  _implementation facing_. These tells us something about functional correctness but the relation to the user is _indirect_.
+versus activity which is  _implementation facing_. These tells us something about functional correctness but is more technil, and the relation to the user is _indirect_.
 
 In each Quadrant we defined the single kind of test which we think is most suitable. 
 It might be possible to come up with other tests too.
@@ -41,7 +41,7 @@ It consists of 3 steps:
 - Payment
 
 We have some integrations with internal and external services like an external service to provide payments options.
-We want to be in control and not blindly rely on the external service
+We want to be in control and not blindly trust on the external service
 
 How could we approach this checkout flow? What kind of monitoring can we do in each quadrant?
 
