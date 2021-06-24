@@ -23,12 +23,11 @@ versus activity which is  _implementation facing_. These tells us something abou
 In each Quadrant we defined the single kind of test which we think is most suitable. 
 It might be possible to come up with other tests too.
 
-All of these different perspecitves matter and give us specific insights, while they also have their
-own limitations. Together they for a complete picture. Let's look at the examples to learn more.
 
 
 ![](../functional_monitoring_quadrants_improved.jpeg)
-
+All of these different perspecitves matter and give us specific insights, while they also have their
+own limitations. Together they for a complete picture. Let's look at the examples to learn more.
 
 ## Functional Monitoring in real life
 ### Case study: A checkout flow
