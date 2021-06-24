@@ -1,5 +1,5 @@
 ## Why Functional Monitoring?
-Monitoring is as a crucial part of successful Continuous Delivery. Yet, we see that monitoring often 
+Monitoring is as a crucial part of any successful Continuous Delivery implementation. Yet, we see that monitoring often 
 is primarily focussed on technical metrics like instance health and error rate. 
 
 These metrics are useful but
@@ -8,7 +8,11 @@ don't tell the story from the end-user perspective. For instance, all services c
 Functional Monitoring helps to bridge the gap between technical metrics and real user impact, greatly enhancing overall observability of the system.
 
 ## But which kinds of Functional Monitoring?
-We've come up with 4 complementary types of Monitoring and categorized them into what we call the _Functional Monitoring Quadrants_.  
+There are several kinds of Functional Monitoring we can apply but searching on the web you can easily get lost on what to do and how different kind of monitoring relates. How can we get a complete picture?
+
+### Functional Monitoring Quadrants
+We categorized 4 complementary types of Monitoring into what we call the _Functional Monitoring Quadrants_. We are convinced these will help
+to build a effective strategy for validating the correctness of the our software running in production
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
 versus simulated activity, also know as _synthetic testing_ or _testing in production_.
@@ -22,11 +26,11 @@ It might be possible to come up with other tests too.
 All of these different perspecitves matter and give us specific insights, while they also have their
 own limitations. Together they for a complete picture. Let's look at the examples to learn more.
 
-### Functional Monitoring Quadrants
+
 ![](../functional_monitoring_quadrants_improved.jpeg)
 
 
-## Functional Monitoring by Example
+## Functional Monitoring in real life
 ### Case study: A checkout flow
 
 ![](../checkout_flow.png)
@@ -37,17 +41,18 @@ It consists of 3 steps:
 - Shipping
 - Payment
 
-We have some integrations with internal and external services like an external service to check the customer address.
+We have some integrations with internal and external services like an external service to provide payments options.
 We want to be in control and not blindly rely on the external service
 
-How could we approach this checkout flow? What kind of monitoring can we do in each quadrant ? Let's dive in
+How could we approach this checkout flow? What kind of monitoring can we do in each quadrant?
 
+## Functional Monitoring by Example
 ### Quadrant 1: User Flow Monitoring
-#### Why?
-I measure availability and performance of a critical business flow from the user’s perspective.
+#### Goal
+I want to measure availability and performance of a critical business flow from the user’s perspective.
 #### Example
 I play a recorded checkout flow through the user's
-perspective. I measure that the scenario works end-to-end, the flow can be completed and how long it takes
+perspective. I measure that the scenario works end-to-end and how long it takes to go through the complete flow
 #### Limitation
 Assumption based happy flow. Users might follow a different path with unexpected problems, these will not be found pro-actively.
 Subject to continuous maintenance.
@@ -91,6 +96,8 @@ Small checks, you only measure the parts but not the sum of the parts.
 • Don’t make the assertions overly strict\
 <br/>
 • Exclude from A/B testing and Analytics\
+
+If you don't have a front-end you could do a sequence of API calls
 
 ## Conclusion
 We've seen examples of a test in each Quadrant. It really depends on your situation the amount   you probably need them all to some extent
