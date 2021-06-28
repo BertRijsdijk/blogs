@@ -21,7 +21,7 @@ With synthetic testing we continuously get information about the availability of
 about the system by executing tests in production according to a schedule (e.g. every 5 minutes). The downside is that it is not the "real" user
 experience, as it is based on assumption on the most common usage
 
-As apposed to real user activity which generates information based on actual usage. We could say this is more "real" yet we depend
+On the other end there is real user activity which generates information based on actual usage. We could say this is more "real" yet we depend
 on the amount. For example when there is little usage at night problems might go undetected.
 
 On the vertical axis we differentiate activity which is direct _user- facing_ 
