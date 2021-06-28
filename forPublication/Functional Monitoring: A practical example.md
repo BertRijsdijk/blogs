@@ -1,6 +1,6 @@
 ## Why Functional Monitoring?
 Monitoring is as a crucial part of any successful Continuous Delivery implementation. Yet, we see that monitoring often 
-is primarily focussed on technical metrics like instance health and error rate. 
+is primarily focussed on technical metrics like instance health and error rate.
 
 These metrics are useful but
 don't tell the story from the end-user perspective. For instance, all services could be "green", while our customers experience broken functionality. 
@@ -15,14 +15,14 @@ We categorized 4 complementary types of Monitoring into what we call the _Functi
 to build a effective strategy for validating the correctness of the our software running in production
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
-versus simulated activity, also know as _synthetic testing_ or _testing in production_.
+versus simulated activity, also know as _synthetic testing_ or _testing in production_. 
+With synthetic testing we create a stream of  continuous information about the availability of the system. 
 
-On the vertical axis we differentiate activity which is direct user-facing 
-versus activity which is  _implementation facing_. These tells us something about functional correctness but is more technil, and the relation to the user is _indirect_.
+On the vertical axis we differentiate activity which is direct _user- facing_ 
+versus _implementation facing_. These tells us about functional correctness but the relation to the user is _indirect_.
 
 In each Quadrant we defined the single kind of test which we think is most suitable. 
 It might be possible to come up with other tests too.
-
 
 
 ![](../functional_monitoring_quadrants_improved.jpeg)
@@ -40,7 +40,7 @@ It consists of 3 steps:
 - Shipping
 - Payment
 
-We have some integrations with internal and external services like an external service to provide payments options.
+We have some integrations with internal and external services like a payment service provider.
 We want to be in control and not blindly trust on the external service
 
 How could we approach this checkout flow? What kind of monitoring can we do in each quadrant?
@@ -97,6 +97,7 @@ Small checks, you only measure the parts but not the sum of the parts.
 • Exclude from A/B testing and Analytics\
 
 If you don't have a front-end you could do a sequence of API calls
+Update user journey on real data 
 
 ## Conclusion
 We've seen examples of a test in each Quadrant. It really depends on your situation the amount   you probably need them all to some extent
