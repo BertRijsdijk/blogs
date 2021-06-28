@@ -14,7 +14,7 @@ There are several kinds of Functional Monitoring we can apply but searching on t
 We categorized 4 complementary types of Monitoring into what we call the _Functional Monitoring Quadrants_ which can help
 to build a effective strategy for validating the correctness of the our software running in production. 
 
-On the horizontal axis we differentiate activity that is coming from _actual usage_ 
+On the horizontal axis we differentiate activity that is coming from actual usage 
 versus _simulated activity_, also know as _synthetic testing_ or _testing in production_. 
 
 With synthetic testing we continuously get information about the availability of the system. In other words, we generate the information
