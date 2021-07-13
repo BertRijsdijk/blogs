@@ -7,11 +7,30 @@ don't tell the story from the end-user perspective. For instance, all services c
 
 Functional Monitoring helps to bridge the gap between technical metrics and real user impact, greatly enhancing overall observability of the system.
 
-## But which kinds of Functional Monitoring?
+
+## Building blocks of an effective functional monitoring implementation
+
+
+## Synthetic testing vs Real User activity
+I want synthetic testing to get a continuous stream of fast feedback on the data which is most important to me. I want to control exactly what I measure
+example
+I want user activity because I need to know how real users interact with my website. I will get a complete picture of real user experience
+example
+## user journey vs business requirements 
+I want to measure the user experience, so I understand ... 
+I want to know if my business requirements are fulfilled
+
+
+
+
+
 There are several kinds of Functional Monitoring we can apply but searching on the web you can easily get lost on what to do and how different kind of monitoring relates. How can we get a complete picture?
 
+It should help us to grasp the quality of the end-user experience therefor it shoud contain some kind of user facing tests
+
+
 ### Functional Monitoring Quadrants
-We categorized 4 complementary types of Monitoring into what we call the _Functional Monitoring Quadrants_ which can help
+We categorized 4 complementary types of Monitoring into what we call the _Functional Monitoring Quadrants_ which together will help
 to build a effective strategy for validating the correctness of the our software running in production. 
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
