@@ -17,7 +17,7 @@ example
 I want user activity because I need to know how real users interact with my website. I will get a complete picture of real user experience
 example
 ## user journey vs business requirements 
-I want to measure the user experience, so I understand ... 
+I want to measure the application is functions correctly from a user's perspective 
 I want to know if my business requirements are fulfilled
 
 
@@ -50,7 +50,7 @@ In each Quadrant we defined the single kind of test which we think is most suita
 It might be possible to come up with other tests too.
 
 
-![](../functional_monitoring_quadrants_improved.jpeg)
+![](../Functional_Monitoring_Quadrants_.jpeg)
 All of these different perspecitves matter and give us specific insights, while they also have their
 own limitations. Together they for a complete picture. Let's look at the examples to learn more.
 
