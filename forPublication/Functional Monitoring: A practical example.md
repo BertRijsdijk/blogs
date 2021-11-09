@@ -27,7 +27,7 @@ On the other end there is real user activity which generates information based o
 on the amount of traffic. For example when there is little usage at night problems might go undetected.
 
 On the vertical axis we differentiate activity which is part of the direct _user experience_ where we measure each 
-step of the user journey versus the _Business Requirements_ which focus on monitoring business metrics
+step of the user journey versus the _Business Requirements_ which focus on monitoring business. 
 
 In each Quadrant we defined the single kind of test which we think is most suitable. 
 It might be possible to come up with other tests too.
@@ -35,7 +35,7 @@ It might be possible to come up with other tests too.
 
 ![](../Functional_Monitoring_Quadrants_.jpeg)
 All of these different perspecitves matter and give us specific insights, while they also have their
-own limitations. Together they for a complete picture. Let's look at the examples to learn more.
+own limitations. Together they for a complete picture. Let's look at the examples to learn more!
 
 ## Functional Monitoring in real life
 ### Case study: A checkout flow
@@ -59,7 +59,7 @@ How could we approach this checkout flow? What kind of monitoring can we do in e
 I want to measure availability and performance of a critical business flow from the user’s perspective.
 #### Example
 I play a recorded checkout flow through the user's
-perspective. I measure that the scenario works end-to-end and how long it takes to go through the complete flow
+perspective. I measure that the scenario works end-to-end and how long it takes to go through the complete flow.
 #### Limitation
 Assumption based happy flow. Users might follow a different path with unexpected problems, these will not be found pro-actively.
 Subject to continuous maintenance.
