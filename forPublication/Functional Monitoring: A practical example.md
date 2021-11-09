@@ -30,17 +30,12 @@ On the other end there is real user activity that generates information based on
 We could say this is more "real", yet we depend on the amount of traffic. 
 For example, when there is little usage at night, problems might go undetected.
 
-On the vertical axis we differentiate activity which is part of the direct _user experience_ where we measure each 
-step of the user journey versus the _Business Requirements_ which focuses on measuring trends 
-in business metrics like anomalies detection. 
+On the vertical axis we differentiate activity that is part of the direct _user experience_. 
+We measure each step of the user journey versus the _Business Requirements_, 
+which focuses on measuring trends in business metrics like anomalies detection.
 
-Combining these two axis we get 4 combinations that give us a very complete story of 
-how our system is behaving functionally. All of these different perspectives matter and give 
-us specific insights, while they also have their own limitations. 
-Together they paint a complete picture.
-
-Each Quadrant matters and can be implemented in different ways to give us specific insights, 
-while they also have their own limitations. 
+These different perspectives matter and give us specific insights, 
+while they also have their limitations. 
 Together they paint a complete picture. Let's look at the examples to learn more.
 
 ## Functional Monitoring in real life
@@ -64,12 +59,12 @@ How could we approach this checkout flow? What kind of monitoring can we do in e
 ## Functional Monitoring by Example
 ### Quadrant 1: User Flow Monitoring
 #### Goal
-I want to measure availability and performance of a critical business flow from the user’s perspective.
+I want to measure the availability and performance of a critical business flow from the user’s perspective.
 #### Example
 I play a recorded checkout flow through the user's
 perspective. I measure that the scenario works end-to-end and how long it takes to go through the complete flow.
 #### Limitation
-Assumption based happy flow. Users might follow a different path with unexpected problems, these will not be found pro-actively.
+Assumption-based happy flow. Users might follow a different path with unexpected problems: these will not be found pro-actively.
 Subject to continuous maintenance.
 
 ### Quadrant 2: Real User Monitoring
@@ -79,16 +74,16 @@ Measure actual usability and performance of the website from the customers persp
 I insert JavaScript (client-side code) to measure where
 customers drop off, or experience slowness.
 #### Limitations
-Less data when there is less usage (e.g., at night). Performance measurements are impacted by the capabilities of devices and connectivity of the user.
+There is less data available when usage is lower (e.g., at night). Performance measurements are impacted by 
+the capabilities of devices and the connectivity of the user.
 
 ### Quadrant 3: Business Metrics 
 #### Goal
-Use data from the different applications to get insights into the business goals to determine if there is an anomaly.
+Use data from the different applications to get insights into the business goals to signal anomalies.
 #### Example
-I measure the orders over time to detect whether I get
-less orders then expected.
+I measure the orders over time to detect whether I get fewer orders than expected.
 #### Limitation
-Anomaly Detection Less valuable when there is a low amount of traffic.
+Anomaly Detection is less valuable when there is a low amount of traffic.
 
 ### Quadrant 4: API Endpoint Monitoring
 #### Goal
@@ -120,7 +115,7 @@ performed by the users of the API might give you valuable data.
 
 
 ## Conclusion
-We've seen examples of a test in each Quadrant. The quadrants can help you build functional monitoring 
+We've seen examples of a test in each Quadrant. The Quadrants can help you build functional monitoring 
 that is complementary to technical metrics. When combining functional and technical monitoring 
-you gain a complete the picture of the correctness of your system. This way you will get in control, 
-gain confidence and will be able to determine the _real_ impact of incidents.  
+you gain a complete picture of the correctness of your system. This way you will get in control, 
+gain confidence, and will be able to determine the _real_ impact of incidents.  
