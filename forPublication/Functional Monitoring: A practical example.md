@@ -16,6 +16,8 @@ To help build an effective strategy for Functional Monitoring we developed the _
 The quadrants consist of 4 complementary types of Monitoring which together will help
 you build a effective strategy for validating functional correctness. 
 
+![](../Functional_Monitoring_Quadrants_.jpeg)
+
 On the horizontal axis we differentiate activity that is coming from actual usage 
 versus _simulated activity_, also know as _synthetic testing_ or _testing in production_. 
 
@@ -34,7 +36,6 @@ In each Quadrant we defined the single kind of test which we think is most suita
 It might be possible to come up with other tests too. Let us know what you think!
 
 
-![](../Functional_Monitoring_Quadrants_.jpeg)
 All of these different perspecitves matter and give us specific insights, while they also have their
 own limitations. Together they paint a complete picture. Let's look at the examples to learn more.
 
