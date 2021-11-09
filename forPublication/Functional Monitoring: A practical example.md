@@ -1,37 +1,19 @@
 ## Why Functional Monitoring?
-Monitoring is as a crucial part of any successful Continuous Delivery implementation. Yet, we see that monitoring often 
-is primarily focussed on technical metrics like instance health and error rate.
+Monitoring is as a crucial part of any successful Continuous Delivery implementation. 
 
-These metrics are useful but
-don't tell the story from the end-user perspective. For instance, all services could be "green", while our customers experience broken functionality. 
+As consultant I often we see development teams have a hard time striking the right
+balance between different kind of monitoring, focussing on observability primarily in terms of technical metrics like error rate.
+
+Technical metrics are useful but don't tell the story from the end-user perspective. 
+For instance, all services could be "green", while our customers experience broken functionality. 
 
 Functional Monitoring helps to bridge the gap between technical metrics and real user impact, greatly enhancing overall observability of the system.
 
-
-## Building blocks of an effective functional monitoring implementation
-
-
-## Synthetic testing vs Real User activity
-I want synthetic testing to get a continuous stream of fast feedback on the data which is most important to me. I want to control exactly what I measure
-example
-I want user activity because I need to know how real users interact with my website. I will get a complete picture of real user experience
-example
-## user journey vs business requirements 
-I want to measure the application is functions correctly from a user's perspective 
-I want to know if my business requirements are fulfilled
-
-
-
-
-
-There are several kinds of Functional Monitoring we can apply but searching on the web you can easily get lost on what to do and how different kind of monitoring relates. How can we get a complete picture?
-
-It should help us to grasp the quality of the end-user experience therefor it shoud contain some kind of user facing tests
-
-
 ### Functional Monitoring Quadrants
-We categorized 4 complementary types of Monitoring into what we call the _Functional Monitoring Quadrants_ which together will help
-to build a effective strategy for validating the correctness of the our software running in production. 
+To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_  
+
+It contains  4 complementary types of Monitoring which together will help
+you build a effective strategy for validating functional correctness of your software running in production. 
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
 versus _simulated activity_, also know as _synthetic testing_ or _testing in production_. 
