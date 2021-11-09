@@ -1,7 +1,7 @@
 ## Why Functional Monitoring?
 Monitoring is as a crucial part of any successful Continuous Delivery implementation. 
 
-I often we see development teams have a hard time striking the right balance between different 
+We often we see development teams have a hard time striking the right balance between different 
 kinds of monitoring, focussing on observability primarily in terms of technical metrics like error rate.
 
 Technical metrics are useful but don't tell the story from the end-user perspective. 
@@ -27,15 +27,16 @@ On the other end there is real user activity which generates information based o
 on the amount of traffic. For example when there is little usage at night problems might go undetected.
 
 On the vertical axis we differentiate activity which is part of the direct _user experience_ where we measure each 
-step of the user journey versus the _Business Requirements_ which focus on monitoring business. 
+step of the user journey versus the _Business Requirements_ which focuses on measuring trends 
+in business metrics. Think of anomalies or . 
 
 In each Quadrant we defined the single kind of test which we think is most suitable. 
-It might be possible to come up with other tests too.
+It might be possible to come up with other tests too. Let us know what you think!
 
 
 ![](../Functional_Monitoring_Quadrants_.jpeg)
 All of these different perspecitves matter and give us specific insights, while they also have their
-own limitations. Together they for a complete picture. Let's look at the examples to learn more!
+own limitations. Together they paint a complete picture. Let's look at the examples to learn more.
 
 ## Functional Monitoring in real life
 ### Case study: A checkout flow
@@ -91,6 +92,11 @@ payment options.
 #### Limitation
 Small checks, you only measure the parts but not the sum of the parts.
 
+#### What if there is no GUI?
+If you don't have a front-end but for example, expose a REST API to your customers a sequence of REST calls as 
+performed by the users of the API might give you valuable data. 
+
+
 ## Best practices
 • Identify the most critical flow(s)\
 <br/>
@@ -104,8 +110,11 @@ Small checks, you only measure the parts but not the sum of the parts.
 <br/>
 • Exclude from A/B testing and Analytics
 
-If you don't have a front-end you could do a sequence of API calls
-Update user journey on real data 
+
 
 ## Conclusion
-We've seen examples of a test in each Quadrant. It really depends on your situation the amount   you probably need them all to some extent
+We've seen examples of a test in each Quadrant that can paint a complete picture of the
+functional correctness of the system. As such it is complementary to the measurement of 
+technical metrics. The combination helps you get in to determine the real impact of  
+
+Ofcourse every situation  really depends on your situation the amount   you probably need them all to some extent
