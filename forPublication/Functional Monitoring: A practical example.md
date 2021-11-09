@@ -32,19 +32,23 @@ On the vertical axis we differentiate activity which is part of the direct _user
 step of the user journey versus the _Business Requirements_ which focuses on measuring trends 
 in business metrics like anomalies detection. 
 
-In each Quadrant we defined the single kind of test which we think is most suitable. 
-It might be possible to come up with other tests too. Let us know what you think!
+Combining these two axis we get 4 combinations that, combined, give us a very complete story of 
+how our system is behaving functionally. All of these different perspectives matter and give 
+us specific insights, while they also have their own limitations. 
+Together they paint a complete picture.
 
-
-All of these different perspecitves matter and give us specific insights, while they also have their
-own limitations. Together they paint a complete picture. Let's look at the examples to learn more.
+Each Quadrant matters and can be implemented in different ways to give us specific insights, 
+while they also have their own limitations. 
+Together they paint a complete picture. Let's look at the examples to learn more.
 
 ## Functional Monitoring in real life
 ### Case study: A checkout flow
 
 ![](../checkout_flow.png)
 
-_Consider this example case_. We will implement Functional Monitoring in a checkout-flow. 
+To give you an idea how these Quadrants can be implemented, 
+I am going to use a generic case study that a lot of you can relate to: a checkout process.
+
 It consists of 3 steps:
 - Customer Details
 - Shipping
