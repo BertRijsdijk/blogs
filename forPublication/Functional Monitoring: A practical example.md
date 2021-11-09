@@ -4,7 +4,7 @@ Monitoring is as a crucial part of any successful Continuous Delivery implementa
 We often we see development teams have a hard time striking the right balance between different 
 kinds of monitoring, focussing on observability primarily in terms of technical metrics like error rate.
 
-Technical metrics are useful but don't tell the story from the end-user perspective. 
+Technical metrics are useful but might not tell the whole story.
 For instance, all services could be "green", while our customers experience broken functionality. 
 
 Functional Monitoring helps to bridge the gap between technical metrics and real user impact, 
