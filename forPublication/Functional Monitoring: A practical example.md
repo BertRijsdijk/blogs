@@ -102,7 +102,7 @@ Small checks, you only measure the parts but not the sum of the parts.
 <br/>
 • Don’t make the assertions overly strict\
 <br/>
-• Exclude from A/B testing and Analytics\
+• Exclude from A/B testing and Analytics
 
 If you don't have a front-end you could do a sequence of API calls
 Update user journey on real data 
