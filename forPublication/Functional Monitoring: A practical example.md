@@ -115,5 +115,5 @@ performed by the users of the API might give you valuable data.
 ## Conclusion
 We've seen examples of a test in each Quadrant that when combined complete the picture of the
 functional correctness of the system. It is complementary to the measurement of 
-technical metrics. The combination helps you get in control to determine the 
-_real_ impact of incidents.  
+technical metrics. The combination helps you get in control to gain confidence in the correctness and
+ determine of your software the _real_ impact of incidents.  
