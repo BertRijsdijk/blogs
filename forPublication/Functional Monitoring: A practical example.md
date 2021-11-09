@@ -1,38 +1,40 @@
 ## Why Functional Monitoring?
-Monitoring is as a crucial part of any successful Continuous Delivery implementation. 
+Monitoring is a crucial part of any successful Continuous Delivery implementation. 
 
-We often we see development teams have a hard time striking the right balance between different 
-kinds of monitoring, focussing on observability primarily in terms of technical metrics like error rate.
+We often see development teams have difficulty striking the right balance between different 
+kinds of monitoring, focusing on observability primarily in terms of technical metrics like error rate.
 
-Technical metrics are useful but might not tell the whole story.
+Technical metrics are helpful but might not tell the whole story.
 For instance, all services could be "green", while our customers experience broken functionality. 
 
-Functional Monitoring helps to bridge the gap between technical metrics and real user impact making 
+Functional Monitoring helps bridge the gap between technical metrics and real user impact making 
 the observability of the system complete.
 
 ### Functional Monitoring Quadrants
 To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_.  
 
 The quadrants consist of 4 complementary types of Monitoring which together will help
-you build a effective strategy for validating functional correctness. 
+you build an effective strategy for validating the functional correctness. 
 
 ![](../Functional_Monitoring_Quadrants_.jpeg)
 
-On the horizontal axis we differentiate activity that is coming from actual usage 
-versus _simulated activity_, also know as _synthetic testing_ or _testing in production_. 
+On the horizontal axis we differentiate activity from actual usage 
+versus _simulated activity_, also known as _synthetic testing_ or _testing in production_. 
 
-With synthetic testing we continuously get information about the availability of the system. In other words, we generate the information
-about the system by executing tests in production according to a schedule (e.g. every 5 minutes). The downside is that it is not the "real" user
-experience, as it is based on assumption on the most common usage
+With synthetic testing, we continuously get information about the availability of the system. 
+We can generate the information about the system by executing tests in production according to a schedule 
+(e.g., every 5 minutes). The downside is that it is not the "real" user
+experience: We make assumptions based on the most common usage.
 
-On the other end there is real user activity which generates information based on actual usage. We could say this is more "real" yet we depend
-on the amount of traffic. For example when there is little usage at night problems might go undetected.
+On the other end there is real user activity that generates information based on actual usage. 
+We could say this is more "real", yet we depend on the amount of traffic. 
+For example, when there is little usage at night, problems might go undetected.
 
 On the vertical axis we differentiate activity which is part of the direct _user experience_ where we measure each 
 step of the user journey versus the _Business Requirements_ which focuses on measuring trends 
 in business metrics like anomalies detection. 
 
-Combining these two axis we get 4 combinations that, combined, give us a very complete story of 
+Combining these two axis we get 4 combinations that give us a very complete story of 
 how our system is behaving functionally. All of these different perspectives matter and give 
 us specific insights, while they also have their own limitations. 
 Together they paint a complete picture.
