@@ -12,7 +12,7 @@ Functional Monitoring helps to bridge the gap between technical metrics and real
 ### Functional Monitoring Quadrants
 To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_  
 
-It contains  4 complementary types of Monitoring which together will help
+The quadrants consist of 4 complementary types of Monitoring which together will help
 you build a effective strategy for validating functional correctness of your software running in production. 
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
@@ -23,10 +23,10 @@ about the system by executing tests in production according to a schedule (e.g. 
 experience, as it is based on assumption on the most common usage
 
 On the other end there is real user activity which generates information based on actual usage. We could say this is more "real" yet we depend
-on the amount. For example when there is little usage at night problems might go undetected.
+on the amount of traffic. For example when there is little usage at night problems might go undetected.
 
-On the vertical axis we differentiate activity which is direct _user- facing_ 
-versus _implementation facing_. These tells us about functional correctness but the relation to the user is _indirect_.
+On the vertical axis we differentiate activity which is part of the direct _user experience_
+versus measurement of the _Business Requirements_.
 
 In each Quadrant we defined the single kind of test which we think is most suitable. 
 It might be possible to come up with other tests too.
