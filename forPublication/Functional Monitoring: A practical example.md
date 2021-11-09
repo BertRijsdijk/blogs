@@ -7,8 +7,8 @@ kinds of monitoring, focussing on observability primarily in terms of technical 
 Technical metrics are useful but might not tell the whole story.
 For instance, all services could be "green", while our customers experience broken functionality. 
 
-Functional Monitoring helps to bridge the gap between technical metrics and real user impact, 
-greatly enhancing overall observability of the system.
+Functional Monitoring helps to bridge the gap between technical metrics and real user impact making 
+the observability of the system complete.
 
 ### Functional Monitoring Quadrants
 To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_.  
