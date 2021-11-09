@@ -11,7 +11,7 @@ Functional Monitoring helps to bridge the gap between technical metrics and real
 greatly enhancing overall observability of the system.
 
 ### Functional Monitoring Quadrants
-To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_  
+To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_.  
 
 The quadrants consist of 4 complementary types of Monitoring which together will help
 you build a effective strategy for validating functional correctness of your software running in production. 
@@ -28,7 +28,7 @@ on the amount of traffic. For example when there is little usage at night proble
 
 On the vertical axis we differentiate activity which is part of the direct _user experience_ where we measure each 
 step of the user journey versus the _Business Requirements_ which focuses on measuring trends 
-in business metrics. Think of anomalies or . 
+in business metrics like anomalies detection. 
 
 In each Quadrant we defined the single kind of test which we think is most suitable. 
 It might be possible to come up with other tests too. Let us know what you think!
@@ -113,8 +113,7 @@ performed by the users of the API might give you valuable data.
 
 
 ## Conclusion
-We've seen examples of a test in each Quadrant that can paint a complete picture of the
-functional correctness of the system. As such it is complementary to the measurement of 
-technical metrics. The combination helps you get in to determine the real impact of  
-
-Ofcourse every situation  really depends on your situation the amount   you probably need them all to some extent
+We've seen examples of a test in each Quadrant that when combined complete the picture of the
+functional correctness of the system. It is complementary to the measurement of 
+technical metrics. The combination helps you get in control to to determine the 
+real impact of incidents.  
