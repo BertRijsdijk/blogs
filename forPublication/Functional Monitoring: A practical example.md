@@ -113,7 +113,7 @@ performed by the users of the API might give you valuable data.
 
 
 ## Conclusion
-We've seen examples of a test in each Quadrant that when combined complete the picture of the
-functional correctness of the system. It is complementary to the measurement of 
-technical metrics. The combination helps you get in control to gain confidence in the correctness and
- determine of your software the _real_ impact of incidents.  
+We've seen examples of a test in each Quadrant. The quadrants can help you build functional monitoring 
+that is complementary to technical metrics. When combining functional and technical monitoring 
+you gain a complete the picture of the correctness of your system. This way you will get in control, 
+gain confidence and will be able to determine the _real_ impact of incidents.  
