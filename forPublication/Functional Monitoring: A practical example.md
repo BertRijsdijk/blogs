@@ -1,13 +1,14 @@
 ## Why Functional Monitoring?
 Monitoring is as a crucial part of any successful Continuous Delivery implementation. 
 
-As consultant I often we see development teams have a hard time striking the right
-balance between different kind of monitoring, focussing on observability primarily in terms of technical metrics like error rate.
+I often we see development teams have a hard time striking the right balance between different 
+kinds of monitoring, focussing on observability primarily in terms of technical metrics like error rate.
 
 Technical metrics are useful but don't tell the story from the end-user perspective. 
 For instance, all services could be "green", while our customers experience broken functionality. 
 
-Functional Monitoring helps to bridge the gap between technical metrics and real user impact, greatly enhancing overall observability of the system.
+Functional Monitoring helps to bridge the gap between technical metrics and real user impact, 
+greatly enhancing overall observability of the system.
 
 ### Functional Monitoring Quadrants
 To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_  
@@ -25,8 +26,8 @@ experience, as it is based on assumption on the most common usage
 On the other end there is real user activity which generates information based on actual usage. We could say this is more "real" yet we depend
 on the amount of traffic. For example when there is little usage at night problems might go undetected.
 
-On the vertical axis we differentiate activity which is part of the direct _user experience_
-versus measurement of the _Business Requirements_.
+On the vertical axis we differentiate activity which is part of the direct _user experience_ where we measure each 
+step of the user journey versus the _Business Requirements_ which focus on monitoring business metrics
 
 In each Quadrant we defined the single kind of test which we think is most suitable. 
 It might be possible to come up with other tests too.
