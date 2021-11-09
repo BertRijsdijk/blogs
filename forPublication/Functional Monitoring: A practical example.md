@@ -14,7 +14,7 @@ greatly enhancing overall observability of the system.
 To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_.  
 
 The quadrants consist of 4 complementary types of Monitoring which together will help
-you build a effective strategy for validating functional correctness of your software running in production. 
+you build a effective strategy for validating functional correctness. 
 
 On the horizontal axis we differentiate activity that is coming from actual usage 
 versus _simulated activity_, also know as _synthetic testing_ or _testing in production_. 
