@@ -37,7 +37,7 @@ We gain inside in the user experience by measuring each step of the
 _User Journey_. To achieve this you could, for example, play a recorded flow through 
 the 5 most important User Journeys on a regular interval 
 or you could insert some JavaScript (client-side code) to measure where
-users drop off, or experience slowness.
+users drop off or experience problems.
  
 _Business Requirements_  focuses on measuring trends like anomalies detection based on,
 for example, the number of orders being lower than expected for the time of the day or 
