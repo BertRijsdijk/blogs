@@ -8,10 +8,11 @@ Technical metrics are helpful but might not tell the whole story.
 For instance, all services could be "green", while our customers experience broken functionality. 
 
 Functional Monitoring helps bridge the gap between technical metrics and real user impact to make
-the observability of the system complete.
+the observability of the system complete. 
+To help create an effective strategy for Functional Monitoring 
+we developed the _Functional Monitoring Quadrants_.
 
-### Functional Monitoring Quadrants
-To help create an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_.  
+### Functional Monitoring Quadrants 
 
 The quadrants consist of 4 complementary types of Monitoring that, when combined, 
 will make it easier to create a complete strategy for validating the functional correctness. 
