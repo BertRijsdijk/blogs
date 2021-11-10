@@ -1,7 +1,7 @@
 ## Why Functional Monitoring?
 Monitoring is a crucial part of any successful Continuous Delivery implementation. 
 
-We often see development teams have difficulty striking the right balance between different 
+We often see development teams having difficulty striking the right balance between different 
 kinds of monitoring, focusing on observability primarily in terms of technical metrics like error rate.
 
 Technical metrics are helpful but might not tell the whole story.
@@ -62,7 +62,7 @@ It consists of 3 steps:
 - Payment
 
 We have some integrations with internal and external services like a payment service provider.
-We want to be in control and not blindly trust on the external service
+We want to be in control and not blindly trust on the external service.
 
 How could we approach this checkout flow? What kind of monitoring can we do in each quadrant?
 
@@ -105,3 +105,6 @@ We've seen examples of a test in each Quadrant. The Quadrants can help you build
 that is complementary to technical metrics. When combining functional and technical monitoring 
 you gain a complete picture of the correctness of your system. This way you will get in control, 
 gain confidence, and will be able to determine the _real_ impact of incidents.  
+
+## Dive in deeper?
+Get in touch.
