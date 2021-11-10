@@ -11,10 +11,10 @@ Functional Monitoring helps bridge the gap between technical metrics and real us
 the observability of the system complete.
 
 ### Functional Monitoring Quadrants
-To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_.  
+To help create an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_.  
 
-The quadrants consist of 4 complementary types of Monitoring that, when combined, can help
-you create an effective strategy for validating the functional correctness. 
+The quadrants consist of 4 complementary types of Monitoring that, when combined, 
+will make it easier to create a complete strategy for validating the functional correctness. 
 
 ![](../Functional_Monitoring_Quadrants_.jpeg)
 
