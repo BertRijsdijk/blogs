@@ -68,61 +68,37 @@ How could we approach this checkout flow? What kind of monitoring can we do in e
 
 ## Functional Monitoring by Example
 ### Quadrant 1: User Flow Monitoring
-#### Goal
-I want to measure the availability and performance of a critical business flow from the user’s perspective.
-#### Example
-I play a recorded checkout flow through the user's
-perspective. I measure that the scenario works end-to-end and how long it takes to go through the complete flow.
-#### Limitation
-Assumption-based happy flow. Users might follow a different path with unexpected problems: these will not be found pro-actively.
-Subject to continuous maintenance.
+The "User flow monitoring" quadrant aims to gain insight into the availability and performance of a critical business flow from a user's perspective. We can do this by replaying a recorded checkout at specific intervals and validating that all the steps work as expected and timely.
+
+This style of monitoring has its limitations. We only replay the happy flow based on our assumptions. Users might follow a different path with unexpected problems, and these will not be found pro-actively using this method. Also, the recorded flow is subject to continuous maintenance.
 
 ### Quadrant 2: Real User Monitoring
-#### Goal
-Measure actual usability and performance of the website from the customers perspective.
-#### Example
-I insert JavaScript (client-side code) to measure where
-customers drop off, or experience slowness.
-#### Limitations
-There is less data available when usage is lower (e.g., at night). Performance measurements are impacted by 
-the capabilities of devices and the connectivity of the user.
+Many observability tools will offer a simple library you can include in your application's front-end to perform "real user monitoring." 
+With "real user monitoring," we can cover some of the limitations of the first quadrant.
 
-### Quadrant 3: Business Metrics 
-#### Goal
-Use data from the different applications to get insights into the business goals to signal anomalies.
-#### Example
-I measure the orders over time to detect whether I get fewer orders than expected.
-#### Limitation
-Anomaly Detection is less valuable when there is a low amount of traffic.
+The goal of this quadrant is to measure the actual availability and performance of the website from the user's perspective. 
+These measurements can provide insight into the experience of real users in the different parts of the checkout flow and even at what point they might drop off.
+
+This quadrant is, of course, not without its limitations. 
+When there is less data available, for example, when fewer users shop at night, measurements are more scattered. 
+The data is also less uniform because the performance measurements can be impacted by the capabilities of devices and the user's connectivity.
+
+### Quadrant 3: Business Metrics
+Using "Business metrics" to monitor a critical business flow can be a powerful addition to your monitoring efforts. 
+Users can complete their journey through the checkout flow without issues, and your monitoring for the first two quadrants can confirm as much. 
+Still, there is a big problem when we don't produce corresponding orders after the user completes checkout and payment.
+
+A likely metric you keep track of from a business perspective is the number of orders created. 
+We can use this metric to detect anomalies and monitor them. 
+Within this quadrant, we aim to look at the critical business metrics for the flow you want to monitor and determine how you can use these metrics to signal problems. 
+Take into account that anomaly detection is less valuable when there is a low amount of traffic.
 
 ### Quadrant 4: API Endpoint Monitoring
-#### Goal
-Measure that the individual calls give the functionally correct responses, so incorrectness is detected fast.
-#### Example
-I check that the payment-options call gives me the correct
-payment options.
-#### Limitation
-Small checks, you only measure the parts but not the sum of the parts.
+Finally, there are business requirements we want to monitor with small synthetic tests. 
+We create these tests to detect issues fast and predictably. 
+For example, we can continuously check that the payment-options call gives me the correct payment options, which might have easily been missed by the monitoring for the other quadrants.
 
-#### What if there is no GUI?
-If you don't have a front-end but for example, expose a REST API to your customers a sequence of REST calls as 
-performed by the users of the API might give you valuable data. 
-
-
-## Best practices
-• Identify the most critical flow(s)\
-<br/>
-• Start with one flow and learn\
-<br/>
-• Keep the number of tests to a minimum\
-<br/>
-• Make it fail\
-<br/>
-• Don’t make the assertions overly strict\
-<br/>
-• Exclude from A/B testing and Analytics
-
-
+With these small checks, you only measure the parts but not the sum of the parts, which is the main benefit and, at the same time, its limitation.
 
 ## Conclusion
 We've seen examples of a test in each Quadrant. The Quadrants can help you build functional monitoring 
