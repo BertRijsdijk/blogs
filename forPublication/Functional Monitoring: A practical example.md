@@ -41,7 +41,7 @@ users drop off, or experience slowness.
  
 _Business Requirements_  focuses on measuring trends like anomalies detection based on,
 for example, the number of orders being lower than expected for the time of the day or 
-the API call for adding to a basket being slow.
+the API call for adding to a basket giving an incorrect number of products.
 
 #### Complementary information
 These different perspectives matter and give us specific insights, 
