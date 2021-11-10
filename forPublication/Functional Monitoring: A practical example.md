@@ -26,8 +26,8 @@ We can generate the information about the system by executing tests in productio
 (e.g., every 5 minutes). The downside is that it is not the "real" user
 experience: We make assumptions based on the most common usage.
 
-On the other end there is real user activity that generates information based on actual usage. 
-We could say this is more "real", yet we depend on the amount of traffic. 
+With real user activity we generate information based on actual usage. 
+We could say this is more "real", but we depend on the amount of traffic being generatedby actual users. 
 For example, when there is little usage at night, problems might go undetected.
 
 On the vertical axis we differentiate activity that is part of the direct _user experience_. 
