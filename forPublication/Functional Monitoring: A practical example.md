@@ -13,8 +13,8 @@ the observability of the system complete.
 ### Functional Monitoring Quadrants
 To help build an effective strategy for Functional Monitoring we developed the _Functional Monitoring Quadrants_.  
 
-The quadrants consist of 4 complementary types of Monitoring which together will help
-you build an effective strategy for validating the functional correctness. 
+The quadrants consist of 4 complementary types of Monitoring that, when combined, can help
+you create an effective strategy for validating the functional correctness. 
 
 ![](../Functional_Monitoring_Quadrants_.jpeg)
 
@@ -43,7 +43,7 @@ Together they paint a complete picture. Let's look at the examples to learn more
 
 ![](../checkout_flow.png)
 
-To give you an idea how these Quadrants can be implemented, 
+To give you an idea how these Quadrants can be used, 
 I am going to use a generic case study that a lot of you can relate to: a checkout process.
 
 It consists of 3 steps:
