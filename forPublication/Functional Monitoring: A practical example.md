@@ -35,7 +35,7 @@ For example, when there is little usage at night, problems might go undetected.
 
 #### User Journey versus Business Requirements
 
-We gain inside in the user experience by measuring each step of the
+We gain insight in the user experience by measuring each step of the
 _User Journey_. To achieve this you could, for example, play a recorded flow through 
 the 5 most important User Journeys on a regular interval 
 or you could insert some JavaScript (client-side code) to measure where
