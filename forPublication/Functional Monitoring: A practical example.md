@@ -1,4 +1,4 @@
-# Improving your Functional Monitoring with the Functional Monitoring Quadrants
+# Improve your Functional Monitoring with the Functional Monitoring Quadrants
 
 ### Why Functional Monitoring?
 Monitoring is a crucial part of any successful Continuous Delivery implementation. 
