@@ -1,11 +1,12 @@
 # The 5 pittfalls that make software scale-ups fail (and what you should do about it)
-![](../SVAQ-Pitfalls-twitter-1.jpeg)
+
 ## The challenge
 Growing a software startup into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills.
 <br></br>
 In this blog I am describing a set of problems and patterns that I have observed in many scale-ups.
 If not addressed, these can be detrimental to the future of these organisations and could ultimately lead to failure.<br></br>For each identified problem I will try to give a tangible solution, here we go!
 
+![](../SVAQ-Pitfalls-twitter-1.jpeg)
 ## 1. Scaling up quickly over scaling up organically
 Expansion of the development teams and capabilities are not always driven by an organic need in terms of output or concrete goals 
 and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go fast. Scaling up then can become
