@@ -20,7 +20,7 @@ cost associated with more complex communication patterns in and between bigger t
 while maintaining healthy development practices. 
 DORA and technical-dept metrics could be helpfull to determine this. <b>Stalling progress in these metrics can be an indicator that to stop or slow down in your hiring process</b>. Consider working on 
 increasing the key metrics first before you can start hiring again.
-
+<br></br>
 ## 2. Backlog filled with low business value items an/or missing system to determine value
 
 Under the stress of demanding stakeholders, clients and investors the backlogs get filled up quickly while the company is still learning about it's value and mission. 
@@ -49,19 +49,20 @@ of product management goals
  
 Besides that I recommend reading the lean startup by Eric Ries (yes, even though you consider yourself
 a scale-up) and the proffesional product owner.  
+<br></br>
 ## 3. Several teams working in isolation on different value streams
 
 
-
+<br></br>
 ## 4. Loss of contact with the end-user product in development team
 Strongly correlated to #3 we often see teams that have a narrow technical mission which is not coupled to the working end-user product
-
+<br></br>
 ## 5. Only focussing on functionality and forgetting enablement for the teams to take end-to-end responsibilty
-
+<br></br>
 ## 6. Creating heavy business processes and to much focus on 'allignment'
 
 A symptom of the problem is scale-up that makes you feel like you are part of a big corporate environment. Software release procedures are long and cumbersome. Getting a new laptop requires filling in a form.
-
+<br></br>
 ## Solutions
 
 
