@@ -1,5 +1,5 @@
 # The 5 pittfalls that make software scale-ups fail (and what you should do about it)
-
+![](../SVAQ-Pitfalls-twitter-1.jpeg)
 ## The challenge
 Growing a software startup into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills.
 <br></br>
