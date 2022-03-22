@@ -3,12 +3,13 @@
 ## The challenge
 Growing a software startup into a scale-up is hard. This phase of your company requires a shift in thinking and very specific leadership skills.
 <br></br>
-In this blog I am describing a set of problems and patterns that I have observed in many scale-ups.
-If not addressed, these can be detrimental to the future of these organisations and could ultimately lead to failure.<br></br>For each identified problem I will try to give a tangible solution, here we go!
+In this blog I am describing a set of problems and patterns that I have observed in some of the scale-ups I've worked with.
+If not addressed, these patterns can be detrimental to the future of these organisations and could ultimately lead to failure.<br></br>
+For each identified problem I will try to give a tangible solution, here we go!
 
 ## 1. Scaling the teams up quickly over scaling up the teams organically
 Expansion of the development teams and capabilities are not always driven by an organic need in terms of output or concrete goals 
-and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go fast. Scaling up then can become
+and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go fast. Scaling up can then can become
 a goal in itself. <br></br>Sometimes organisational growth is driven
 by concrete targets but the only reflex known is just to add more bodies in the assumption that velocity will at least keep going up to an extent. 
 <br></br>
@@ -34,12 +35,13 @@ In organisations that have this problem software teams often lack a sense of pur
 
 When you are finding yourself in this spot consider the following ways to make it better:
 <b>
-1. Create a system to determine business value in an objective way. Think for example of a scorecard for PBI's against business goals or company mission 
-2. Measure and score backlog items against it, for example through business value poker
-3. Callibrate the sytem with your product management team so it get's better over time 
-4. Always include metrics how to measure success for each feature
-5. Use measurements to Re-iterate on the business goals and company vision
-6. Repeat scoring!
+1. Have a written down company mission, business goals for all to see
+2. Create a system to determine business value in an objective way. Think for example of a scorecard for PBI's against business goals or company mission 
+3. Measure and score backlog items against it, for example through business value poker
+4. Callibrate the sytem with your product management team so it get's better over time 
+5. Always include metrics how to measure success for each feature or experiment
+6. Use measurements to re-iterate on the business goals, company vision and business value
+7. Repeat the process
 </b>
 <br>
 
@@ -55,8 +57,13 @@ a scale-up)
 
 ## 3. Several teams working in isolation on different value streams
 
-I've come across a lot of organisations that were exploring different potential revenue streams dividing the work over
-several end-to-end teams building up. These can end up being silo'ed from each-other
+I've come across a lot of organisations that were exploring different potential fatures and / or revenue streams at the same time. 
+They divided the work over several end-to-end teams working in parallel. These teams each focussed on particular areas or features. Usually these
+share a lot of similarities. <br></br>
+The teams can easily end up being silo'ed from each other while at the same time sharing a lot of shared code. When the teams are aware 
+of only there own team mission it can lead to poorly optimized software, conflicting requirements.
+
+Observable symptoms are: Inflexible and entangled (micro) services architecture, poor performance, poor maintanance, suboptimal end-user experience
 
 To make this better you could consider  installing an architecture 
 
