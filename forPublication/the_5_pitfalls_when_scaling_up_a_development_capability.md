@@ -33,13 +33,13 @@ A missing written product goal is also a red flag as well as missing business go
 
 In organisations that have this problem software teams often lack a sense of purpose.
 
-When you are finding yourself in this spot consider the following ways to make it better:
+When you are finding yourself in this spot you could consider the following approach to make it better:
 <b>
 1. Have a written down company mission, business goals for all to see
 2. Create a system to determine business value in an objective way. Think for example of a scorecard for PBI's against business goals or company mission 
 3. Measure and score backlog items against it, for example through business value poker
-4. Callibrate the sytem with your product management team so it get's better over time 
-5. Always include metrics how to measure success for each feature or experiment
+4. Always include metrics how to measure success for each feature or experiment
+5. Callibrate the sytem with your product management team so it get's better over time
 6. Use measurements to re-iterate on the business goals, company vision and business value
 7. Repeat the process
 </b>
@@ -61,11 +61,18 @@ I've come across a lot of organisations that were exploring different potential 
 They divided the work over several end-to-end teams working in parallel. These teams each focussed on particular areas or features. Usually these
 share a lot of similarities. <br></br>
 The teams can easily end up being silo'ed from each other while at the same time sharing a lot of shared code. When the teams are aware 
-of only there own team mission it can lead to poorly optimized software, conflicting requirements.
+of only their own team mission it can lead to poorly optimized software, conflicting requirements.
 
-Observable symptoms are: Inflexible and entangled (micro) services architecture, poor performance, poor maintanance, suboptimal end-user experience
+Observable symptoms are: Inflexible and entangled (micro) services architecture, poor performance, poor maintanance, 
+suboptimal and inconsistent end-user experience
 
-To make this better you could consider  installing an architecture 
+The core issue is usually making sure your development teams have enough knowledge about the key company mission and products. Update them on a continuous basis and involve them early
+
+To further improve the situation conversation between the teams could be fascilitated around the following items:<br></br>
+- Using an architecture guild with representative of each team to understand where the other teams are heading
+- A shared architecture picture that is continuously updated and visible to everyone (wall and / or virtual board) 
+- Continuous interaction between the teams
+- Lightweight architectural decision logs in the code
 
 <br></br>
 ## 4. Loss of contact with the end-user product in development team
