@@ -17,10 +17,10 @@ The result could come as a surprise: When adding resources too quickly it become
 cost associated with more complex communication patterns in and between bigger teams.
 <br></br>The problem becomes visible in the form of lower velocity, lower predictability and lower quality. It is undoubtly tied in with a number of other problems listed in this blog. 
 
-<b>Organic growth is to add only so many resources that enable you to maintain an increasing the number of features that can be released</b> a.k.a. <b> working software in production</b> 
+<b>Organic growth</b> is to add only so many resources that enable you to maintain an increasing the number of features that can be released a.k.a. <b> working software in production</b> 
 while maintaining healthy development practices. 
-DORA and technical-dept metrics could be helpfull to determine this. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. Consider working on 
-increasing the key metrics first _and perhaps getting specific hires to improve those_ before you start growing the product teams again.
+<br></br> DORA and technical-dept metrics could be helpfull to determine this. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. 
+<br></br>Consider working on increasing the key metrics first _and getting specific hires to improve those_ before you start growing the product teams again.
 <br></br>
 ## 2. Backlog filled with low business value items an/or missing system to determine value
 
