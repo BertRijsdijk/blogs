@@ -68,10 +68,10 @@ suboptimal and inconsistent end-user experience
 
 The core issue is usually making sure your development teams have enough knowledge about the key company mission and products. Update them on a continuous basis and involve them early
 
-To further improve the situation conversation between the teams could be fascilitated around the following items:<br></br>
+The level of conversation between the teams should be also be improved. The conversation could be fascilitated around the following items:
 - Using an architecture guild with representative of each team to understand where the other teams are heading
 - A shared architecture picture that is continuously updated and visible to everyone (wall and / or virtual board) 
-- Continuous interaction between the teams
+- Shared items like DoD's and non-functional requirements
 - Lightweight architectural decision logs in the code
 
 <br></br>
