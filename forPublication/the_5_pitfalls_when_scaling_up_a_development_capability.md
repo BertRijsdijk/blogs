@@ -1,7 +1,7 @@
 # The 5 pittfalls that make software scale-ups fail (and what you should do about it)
 
 ## The challenge
-Growing a software startup into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills.
+Growing a software startup into a scale-up is hard. This phase of your company requires a shift in thinking and very specific leadership skills.
 <br></br>
 In this blog I am describing a set of problems and patterns that I have observed in many scale-ups.
 If not addressed, these can be detrimental to the future of these organisations and could ultimately lead to failure.<br></br>For each identified problem I will try to give a tangible solution, here we go!
@@ -19,7 +19,7 @@ cost associated with more complex communication patterns in and between bigger t
 <b>Organic growth is to add only so many resources that enable you to maintain an increasing the number of features that can be released</b> a.k.a. <b> working software in production</b> 
 while maintaining healthy development practices. 
 DORA and technical-dept metrics could be helpfull to determine this. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. Consider working on 
-increasing the key metrics first before you start growing the teams again.
+increasing the key metrics first _and perhaps getting specific hires to improve those_ before you start growing the product teams again.
 <br></br>
 ## 2. Backlog filled with low business value items an/or missing system to determine value
 
@@ -55,7 +55,10 @@ a scale-up)
 
 ## 3. Several teams working in isolation on different value streams
 
-When an organisation scales Another situation I've often encountered was 
+I've come across a lot of organisations that were exploring different potential revenue streams dividing the work over
+several end-to-end teams building up. These can end up being silo'ed from each-other
+
+To make this better you could consider  installing an architecture 
 
 <br></br>
 ## 4. Loss of contact with the end-user product in development team
