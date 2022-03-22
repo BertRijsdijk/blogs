@@ -9,7 +9,7 @@ For each identified problem I will try to give a tangible solution, here we go!
 
 ## 1. Scaling the teams up quickly over scaling up the teams organically
 Expansion of the development teams and capabilities are not always driven by an organic need in terms of output or concrete goals 
-and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go fast. Scaling up can then seems to almost become
+and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go grow fast to deliver sooner. Scaling up can then seems to almost become
 a goal in itself. <br></br>Sometimes organisational growth is driven
 by concrete targets but the only reflex known is just to add more bodies in the assumption that velocity will at least keep going up to an extent. 
 <br></br>
