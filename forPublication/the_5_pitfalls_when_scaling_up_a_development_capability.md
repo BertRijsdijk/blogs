@@ -6,26 +6,25 @@ Growing a software startup into a scale-up is hard. This phase of a company requ
 In this blog I am describing a set of problems and patterns that I have observed in many scale-ups.
 If not addressed, these can be detrimental to the future of these organisations and could ultimately lead to failure.<br></br>For each identified problem I will try to give a tangible solution, here we go!
 
-![](../SVAQ-Pitfalls-twitter-1.jpeg)
-## 1. Scaling up quickly over scaling up organically
+## 1. Scaling the teams up quickly over scaling up the teams organically
 Expansion of the development teams and capabilities are not always driven by an organic need in terms of output or concrete goals 
 and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go fast. Scaling up then can become
 a goal in itself. <br></br>Sometimes organisational growth is driven
 by concrete targets but the only reflex known is just to add more bodies in the assumption that velocity will at least keep going up to an extent. 
 <br></br>
-The result then comes as a surprise: When adding resources too quickly it becomes very hard to instill or uphold things like healthy development practices and team purpose. There is alo a
+The result could come as a surprise: When adding resources too quickly it becomes very hard to instill or uphold things like healthy development practices and team purpose. There is alo a
 cost associated with more complex communication patterns in and between bigger teams.
 <br></br>The problem becomes visible in the form of lower velocity, lower predictability and lower quality. It is undoubtly tied in with a number of other problems listed in this blog. 
 
 <b>Organic growth is to add only so many resources that enable you to maintain an increasing the number of features that can be released</b> a.k.a. <b> working software in production</b> 
 while maintaining healthy development practices. 
-DORA and technical-dept metrics could be helpfull to determine this. <b>Stalling progress in these metrics can be an indicator that to stop or slow down in your hiring process</b>. Consider working on 
-increasing the key metrics first before you can start hiring again.
+DORA and technical-dept metrics could be helpfull to determine this. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. Consider working on 
+increasing the key metrics first before you start growing the teams again.
 <br></br>
 ## 2. Backlog filled with low business value items an/or missing system to determine value
 
 Under the stress of demanding stakeholders, clients and investors the backlogs get filled up quickly while the company is still learning about it's value and mission. 
-The result is an enormous body of potential work with undetermined value. Hell, even the growth of the development team itself will lead to more backlog items as most employees 
+The result is an enormous body of potential work with undetermined value. Even the growth of the development team itself will lead to more backlog items as most employees 
 will likely try to be useful and suggest improvements and things they need to do to make the product and developer experience better.
 
 The problem becomes visible in the form of long backlogs where PBI's miss business value, prioritisation becomes difficult and missing objective business value criteria. 
@@ -44,15 +43,19 @@ When you are finding yourself in this spot consider the following ways to make i
 </b>
 <br>
 
-Succes depends on using such system with disipline. Letting go of a feature where you invested in 
-emotionally or financially is hard. It could be tempting to game the system. It requires leadership and coaching 
-of product management goals 
+Succes depends on using such system with discipline. Letting go of a feature where you invested in 
+emotionally or financially is hard. It could be tempting to game the system. It requires a strong vision, leadership and a 
+experienced product management capability to avoid stepping into these traps.
  
-Besides that I recommend reading the lean startup by Eric Ries (yes, even though you consider yourself
-a scale-up) and the proffesional product owner.  
-<br></br>
+Read:
+
+- The lean startup by Eric Ries (yes, even though you consider yourself
+a scale-up) 
+- the professional product owner by SCRUM.org
+
 ## 3. Several teams working in isolation on different value streams
 
+When an organisation scales Another situation I've often encountered was 
 
 <br></br>
 ## 4. Loss of contact with the end-user product in development team
