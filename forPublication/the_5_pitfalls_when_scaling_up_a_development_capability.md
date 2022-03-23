@@ -112,7 +112,7 @@ What to do about it? You could consider one or more of the following:
 ## 5. Creating heavy business processes and to much focus on 'allignment'
 Has your scale-up been feeling like bigcorp lately? Perhaps you are letting go of you lean ways to soon and 
 you have started to put processes in place under the assumption that you will need a lot of structure now that you are growing.
-<br></br>The underlying problem could stem from the tendency to want to 'keep control' or could come from lack of trust. 
+<br></br>The underlying problem could also stem from the tendency to want to 'keep control' or could come from lack of trust. 
 Written down processes could give you a false sense of control, and indirectly increase the influence that you have over how 
 your teams work at the cost of team autonomy. Processes can also come from the teams as a _subconcious_ way to reduce
 stress by avoiding certain decisions (just folow the process)
@@ -127,14 +127,16 @@ The symptoms include:
 - Lot's of meetings
 - It takes more the 24 hours for your developers to get something they need
 
-Most companies don't really need the heavy stuff when they still have a relatively small number of development teams. 
+Most companies don't really need heavy processes when they still have a relatively small number of development teams. 
 A scrum of scrums and low bar communication messaging tools might be enough to keep the conversation going.  
 
-You should only hire people that you trust. Given trust the controls you might want to put in place are the ones that really matter.
-- <b>The number of features we are delivering this sprint
-- The trends and goals in DORA metrics
-- Give the development teams what they ask for to achieve their goals (autonomy)
-- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software faster versus the cost, loss of flexibility and overhead</b>
+You should only hire people that you trust. Given trust the controls you might want to put in place:
+- <b>Measurements that really matter</b>
+  - The number of features we are delivering this sprint
+  - The trends and goals in DORA metrics
+- <b>Give the development teams what they ask for to achieve their goals (autonomy)
+- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software faster versus the cost, loss of flexibility and overhead
+- Couch your teams to be flexible and problem solving over adhering to rules</b>
 
 ## 6. Repeating the same mistakes over and over again, instead of learning 
 
