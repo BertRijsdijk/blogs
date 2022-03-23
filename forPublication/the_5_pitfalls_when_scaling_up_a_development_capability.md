@@ -120,7 +120,7 @@ Symptoms can include:
 - Lot of heavy agile scaling frameworks implemented before it was really needed
 - A lot of process overhead and roles make everything feel sticky
 - Hiding behind processes when things go wrong
-- Complex to decide on things like tooling or even on small things
+- Hard to decide on things like tooling or even on small things
 - Complex ticketing system with complicated workflows with mandatory steps
 - Lot's of Confluence pages written with little engagement or reads
 - It takes more the 24 hours for your developers to get something they need
