@@ -2,7 +2,7 @@
 
 ## The challenge: From Start-up to Scale-up
 Growing a new software into a scale-up is hard. This phase of a company poses very different challenges and requires very specific leadership skills
-that differ greatly from what was needed from the start-up phase.
+that differ greatly from what was needed in the start-up phase.
 <br></br>
 In this blog I am describing a set of _problems_ and _patterns_ that I have observed in some of the scale-ups I've worked with.
 If not addressed, these patterns can be detrimental to the future of these organisations and could ultimately lead to failure.<br></br>
@@ -19,7 +19,7 @@ The result could come as a surprise: When adding resources too quickly it become
 cost associated with more complex communication patterns in and between bigger teams.
 <br></br>The problem becomes visible in the form of lower velocity, lower predictability and lower quality. It is undoubtly tied in with a number of other problems listed in this blog. 
 
-<b>Organic growth</b> is to add only so many resources that enable you to maintain an increasing the number of features that can be released a.k.a. <b> working software in production</b> 
+My definition of <b>Organic growth</b> is to add only so many resources that enable you to maintain an increasing the number of features that can be released a.k.a. <b> working software in production</b> 
 while maintaining healthy development practices. 
 <br></br> DORA and technical-dept metrics could be used for the purpose of determine if the teams can absorb more. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. 
 <br></br>Consider working on increasing the key metrics first _or getting specific hires to improve those_ before you start growing the product teams again and choose _no-hires_ over _poor hires_.
@@ -105,38 +105,38 @@ Symptoms include:
 
 What to do about it? You could consider one or more of the following:
 
-- Consider slicing your teams vertically. Do take into account the best practices I have mentioned in <b>#3</b>
-- When possible apply Dogfooding. In other words make everyone in the teams use the products as much as possible.
+- <b>Consider slicing your teams vertically. Do take into account the best practices I have mentioned in <b>#3</b>
+- When possible apply Dogfooding. In other words make everyone in the teams use the products as much as possible</b>.
 
 
 ## 5. Creating heavy business processes and to much focus on 'allignment'
-Has your scale-up been feeling like bigcorp lately? Perhaps you are letting go of you lean ways to soon and 
+Has your scale-up been feeling like bigcorp lately? Perhaps you are letting go of your lean ways to soon and 
 you have started to put processes in place under the assumption that you will need a lot of structure now that you are growing.
 <br></br>The underlying problem could also stem from the tendency to want to 'keep control' or could come from lack of trust. 
-Written down processes could give you a false sense of control, and indirectly increase the influence that you have over how 
+Written down processes could give you a false sense of control and structure. They indirectly increase the influence that you have over how 
 your teams work at the cost of team autonomy. Processes can also come from the teams as a _subconcious_ way to reduce
-stress by avoiding certain decisions (just folow the process)
+stress by avoiding certain decisions (just folow the process).
 
-The symptoms include: 
+The symptoms could include: 
 - Lot of heavy agile scaling frameworks implemented before it was really needed
 - A lot of process overhead and roles make everything feel sticky
 - Hiding behind processes when things go wrong
-- Complex to decide on things like tooling
+- Complex to decide on things like tooling or even on small things
 - Complex ticketing system with complicated workflows with mandatory steps
-- Lot's of Confluence pages written with little engagement
-- Lot's of meetings
+- Lot's of Confluence pages written with little engagement or reads
 - It takes more the 24 hours for your developers to get something they need
 
-Most companies don't really need heavy processes when they still have a relatively small number of development teams. 
+Most companies <b>don't really need heavy processes</b> when they still have a <b>relatively small number of development teams</b>. 
 A scrum of scrums and low bar communication messaging tools might be enough to keep the conversation going.  
 
-You should only hire people that you trust. Given trust the controls you might want to put in place:
-- <b>Measurements that really matter</b>
+You should only hire people that you trust. Given you have trust you might get a sense of _grip_
+by putting put in place:
+- <b>Measurements that really matter, for example</b>
   - The number of features we are delivering this sprint
   - The trends and goals in DORA metrics
 - <b>Give the development teams what they ask for to achieve their goals (autonomy)
-- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software faster versus the cost, loss of flexibility and overhead
-- Couch your teams to be flexible and problem solving over adhering to rules</b>
+- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software. Way this against the loss of flexibilty and compounded cost of maintaining processes
+- Coach your teams to be flexible and problem solving over adhering to rules</b>
 
 ## 6. Repeating the same mistakes over and over again, instead of learning 
 
