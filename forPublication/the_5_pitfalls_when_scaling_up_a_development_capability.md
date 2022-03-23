@@ -1,17 +1,19 @@
-# The 5 + 1 pittfalls that make software scale-ups fail (and what you should do about it)
+# The 6 pittfalls that make software scale-ups fail (and what you should do about it)
 
-## The challenge
-Growing a software startup into a scale-up is hard. This phase of your company requires a shift in thinking and very specific leadership skills.
+## The challenge: From Start-up to Scale-up
+Growing a software start-up into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills
+that differ greatly from what was needed before.
 <br></br>
-In this blog I am describing a set of problems and patterns that I have observed in some of the scale-ups I've worked with.
+In this blog I am describing a set of _problems_ and _patterns_ that I have observed in some of the scale-ups I've worked with.
 If not addressed, these patterns can be detrimental to the future of these organisations and could ultimately lead to failure.<br></br>
-For each identified problem I will try to give a tangible solution, here we go!
+For each identified problem I will try to give a tangible solution based on my experience, here we go.
 
 ## 1. Scaling the teams up quickly over scaling up the teams organically
 Expansion of the development teams and capabilities are not always driven by an organic need in terms of output or concrete goals 
-and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go grow fast to deliver sooner. Scaling up can then seems to almost become
-a goal in itself. <br></br>Sometimes organisational growth is driven
-by concrete targets but the only reflex known is just to add more bodies in the assumption that velocity will at least keep going up to an extent. 
+and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go grow fast for some future velocity. 
+Scaling up can then seems to almost become a goal in itself. <br></br>
+Sometimes organisational growth is driven by concrete targets but the only reflex known is just to add more bodies in the assumption 
+that velocity will at least keep going up to an extent. 
 <br></br>
 The result could come as a surprise: When adding resources too quickly it becomes very hard to instill or uphold things like healthy development practices and team purpose. There is alo a
 cost associated with more complex communication patterns in and between bigger teams.
@@ -20,7 +22,7 @@ cost associated with more complex communication patterns in and between bigger t
 <b>Organic growth</b> is to add only so many resources that enable you to maintain an increasing the number of features that can be released a.k.a. <b> working software in production</b> 
 while maintaining healthy development practices. 
 <br></br> DORA and technical-dept metrics could be used for the purpose of determine if the teams can absorb more. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. 
-<br></br>Consider working on increasing the key metrics first _and getting specific hires to improve those_ before you start growing the product teams again.
+<br></br>Consider working on increasing the key metrics first _and getting specific hires to improve those_ before you start growing the product teams again and choose no-hires over poor hires.
 <br></br>
 ## 2. Backlog filled with low business value items an/or missing system to determine value
 
@@ -58,7 +60,7 @@ a scale-up)
 ## 3. Isolation and silo forming between value streams
 
 A pattern which I've come across in some organisations that explore different potential fatures and / or revenue streams at the same time.
-The work is divided over several end-to-end teams working in parallel where a high level of isolatition between the teams is observed.<br></br>
+The work is divided over several end-to-end teams working in parallel where a  level of isolatition between the teams is observed.<br></br>
 These teams each focussed on particular areas or features that share a lot of technical and functonal similarities.<br></br>
 The teams can easily end up being silo'ed from each other while at the same time sharing a lot of shared code. When the teams are aware 
 of only their own team mission it can lead to poorly optimized software, yet do their own optimization.
@@ -68,14 +70,15 @@ poor performance, poor maintanance
 
 What can you do about it?
 
-- _making sure your development teams have enough knowledge about the key company mission and products. Update them on a continuous basis and involve them early_
-- Make sure an ongoing discussion 
-
-The level of conversation between the teams should be also be improved. The conversation could be fascilitated around the following items:
-- Using an architecture guild with representative of each team to understand where the other teams are heading
-- A shared architecture picture that is continuously updated and visible to everyone (wall and / or virtual board) 
-- Shared items like DoD's and non-functional requirements
-- Lightweight architectural decision logs in the code
+- Make sure your development teams have enough knowledge about the key company mission and products. Update them on a continuous basis and involve them early
+  - Involve tech leads in upcoming 
+- Make sure an ongoing discussion between the teams is facilitated on a daily basis, for instance with:
+  - A daily standup between the teams, liek Scrum of Scrums
+  - Team representatives visiti
+  - Using an architecture guild with representative of each team to understand where the other teams are heading 
+  - A shared architecture picture that is continuously updated and visible to everyone (wall and / or virtual board)
+  - Shared items like DoD's and non-functional requirements 
+  - Lightweight architectural decision logs in the code
 
 <br></br>
 ## 4. Loss of contact with the end-user product in development team
@@ -87,6 +90,8 @@ Strongly correlated to #3 we often see teams that have a narrow technical missio
 
 A symptom of the problem is scale-up that makes you feel like you are part of a big corporate environment. Software release procedures are long and cumbersome. Getting a new laptop requires filling in a form.
 <br></br>
+
+
 ## Solutions
 
 
@@ -118,7 +123,7 @@ Matching ambitions with ..
 
 
 
-
+Forgetting to be a learning organisation 
 
 
 
