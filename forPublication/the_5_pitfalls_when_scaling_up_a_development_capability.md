@@ -73,8 +73,8 @@ What can you do about it?
   - Update them on a continuous basis and involve them early
   - Involve them in an active way (e.g.  in figuring out user journey and goals together with the business, communicate via examples)
 - <b>Consider swarming around the top 3 valuable items for your end-users and finish them one by one instead of working in different streams
-- Use one shared backlog instead of having each team work on their own
-- Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with</b>
+- Use one shared backlog instead of having each team work on their own</b>
+- Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with
   - A daily standup between the teams, like Scrum of Scrums
   - Team representatives or whole team visits the demo / sprint review of other teams
   - Using an architecture guild with representative of each team to understand where the other teams are heading on technical path 
@@ -114,7 +114,7 @@ Has your scale-up been feeling like bigcorp lately? Perhaps you are letting go o
 you have started to put processes in place under the assumption that you will need a lot of structure now that you are growing.
 <br></br>The underlying problem could also stem from the tendency to want to 'keep control' or could come from lack of trust. 
 Written down processes could give you a false sense of control and structure. They indirectly increase the influence that you have over how 
-your teams work at the cost of team autonomy. Processes can also come from the teams as a _subconcious_ way to reduce
+your teams work at the cost of team autonomy and flexibility. Processes can also come from the teams as a _subconcious_ way to reduce
 stress by avoiding certain decisions (just folow the process).
 
 The symptoms could include: 
@@ -127,7 +127,7 @@ The symptoms could include:
 - It takes more the 24 hours for your developers to get something they need
 
 Most companies <b>don't really need heavy processes</b> when they still have a <b>relatively small number of development teams</b>. 
-A scrum of scrums and low bar communication messaging tools might be enough to keep the conversation going.  
+A scrum of scrums and low-bar communication messaging tools might be enough to keep the conversation going.  
 
 You should only hire people that you trust. Given you have trust you might get a sense of _grip_
 by putting put in place:
@@ -146,34 +146,13 @@ The comfort for all to not look and just "look forward"
 
 - Blameless retrospectives
 ##Conclusions
-I shared with you the patterns that we've delt with working for clients. If you want to continue the 
-conversation contact us at:
-
-There is so much to do!
-Increasing developer experience\
-Enable measurement of the development process\
-Implementing a strategy for technical and functional monitoring from the get-go and building it into the product\
-Focus on and swarm around these\
-Share a tangible product strategy with your development teams (s)
+I shared with you the patterns that we've dealt with working for clients. Often several of the patterns could be 
+observed at the same time. These patterns together can a complicated mess with lots of related issues. Mapping them all
+with cause and effect could help you figure out where to start. 
+<br></br>Ultimately, the maturity of the leadership and product management teams really matter in being able to set the proper expectations
+and getting towards a high-performing development organisation.
+<br></br>If you want to continue the 
+conversation contact us at: _our-email address_
 
 
-Ultimately, the maturity of the leadership and product management teams matter in being able to set the proper expectations 
-
-
-SRE teams - Risk tolerance 
-Platform team
-Measurements code complexity - Relationshis between services - Service decomposition
-cycle time, mean time to repair, deployment frequency, change failure rate
-
-
-
-
-
-
-Forgetting to be a learning organisation 
-
-
-
-Scaling up also implies bigger backlogs that need to be filled. There are two sides to this phenomenon.
-More people will work and create ideas which will often lead to backlog items and the expectancy of more capacity itself can
-trigger more promises and variants on product offering.
+ 
