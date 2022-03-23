@@ -38,8 +38,8 @@ In organisations that have this problem software teams often lack a sense of pur
 When you are finding yourself in this spot you could consider the following approach to make it better:
 <b>
 1. Have a written down company mission, business goals for all to see
-2. Create a system to determine business value in an objective way. Think for example of a scorecard for PBI's against business goals or company mission 
-3. Measure and score backlog items against it, for example through business value poker
+2. Create a system to determine business value in an objective way. </b>If direct metrics like revenue or usage are not available you could think of a scorecard for PBI's against business goals or company mission<b> 
+3. Measure and score backlog items, for example through business value poker
 4. Always include metrics how to measure success for each feature or experiment
 5. Callibrate the sytem with your product management team so it get's better over time
 6. Use measurements to re-iterate on the business goals, company vision and business value
@@ -105,19 +105,23 @@ Symptoms include:
 
 What to do about it? You could consider one or more of the following:
 
-- Consider slicing your teams vertically. Do take into account the best practices I have mentioned in <b>pattern 3</b>
+- Consider slicing your teams vertically. Do take into account the best practices I have mentioned in <b>#3</b>
 - When possible apply Dogfooding. In other words make everyone in the teams use the products as much as possible.
 
 
 ## 5. Creating heavy business processes and to much focus on 'allignment'
-Sometimes 
+Has your scale-up  
 
 The symptoms include 
+- Lot of heavy agile scaling frameworks implemented before it was really needed
 - A lot of process overhead and roles make everything feel sticky
+- Complex to decide on things like tooling
 - Complex ticketing system with complicated workflows
 - Lot's of Confluence pages written with little engagement
+- Lot's of meetings
 - It takes more the 24 hours for your developers to get something they need
 
+What you should do about 
 
 
 A symptom of the problem is scale-up that makes you feel like you are part of a big corporate environment. Software release procedures are long and cumbersome. Getting a new laptop requires filling in a form.
@@ -127,7 +131,7 @@ A symptom of the problem is scale-up that makes you feel like you are part of a 
 
 The comfort for all to not look and just "look forward" 
 
-- Blameless retrospective
+- Blameless retrospectives
 ## Solutions
 
 
