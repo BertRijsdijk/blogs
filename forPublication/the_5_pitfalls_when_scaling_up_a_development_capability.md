@@ -139,7 +139,7 @@ by putting put in place:
 - Coach your teams to be flexible and problem solving over adhering to rules</b>
 
 ## 6. Repeating the same mistakes over and over again, instead of learning 
-Many scale-ups are in a race against the clock to deliver their product to the market. 
+Many scale-ups are in a race against the clock to deliver their product to the market. Looking back in   
 
 
 The comfort for all to not look and just "look forward" 
@@ -147,10 +147,10 @@ The comfort for all to not look and just "look forward"
 - Blameless retrospectives
 ##Conclusions
 I shared with you the patterns that we've dealt with working for clients. Often several of the patterns could be 
-observed at the same time. These patterns together can a complicated mess with lots of related issues. Mapping them all
-with cause and effect could help you figure out where to start. 
+observed at the same time. These patterns together can a complicated mess with lots of related issues. Mapping them all including the 
+relationships to determine cause and effect could help you figure out where to start. 
 <br></br>Ultimately, the maturity of the leadership and product management teams really matter in being able to set the proper expectations
-and getting towards a high-performing development organisation.
+and getting towards a high-performing development organisation. A lot of companies need guidance and coaching in that area
 <br></br>If you want to continue the 
 conversation contact us at: _our-email address_
 
