@@ -72,7 +72,8 @@ What can you do about it?
 - <b>Make sure your development teams have enough knowledge about the key company mission and all the products</b>. 
   - Update them on a continuous basis and involve them early
   - Involve them in an active way (e.g.  in figuring out user journey and goals together with the business, communicate via examples)
-- <b>Consider using one backlog instead of having each team work on their own
+- <b>Consider swarming around the top 3 valuable items for your end-users and finish them one by one instead of working in different streams
+- Use one shared backlog instead of having each team work on their own
 - Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with</b>
   - A daily standup between the teams, like Scrum of Scrums
   - Team representatives or whole team visits the demo / sprint review of other teams
@@ -138,22 +139,21 @@ by putting put in place:
 - Coach your teams to be flexible and problem solving over adhering to rules</b>
 
 ## 6. Repeating the same mistakes over and over again, instead of learning 
+Many scale-ups are in a race against the clock to deliver their product to the market. 
+
 
 The comfort for all to not look and just "look forward" 
 
 - Blameless retrospectives
-## Solutions
-
-
-Development doesn't understand business needs
 ##Conclusions
-
+I shared with you the patterns that we've delt with working for clients. If you want to continue the 
+conversation contact us at:
 
 There is so much to do!
 Increasing developer experience\
 Enable measurement of the development process\
 Implementing a strategy for technical and functional monitoring from the get-go and building it into the product\
-Focus on the top 3 valuable items for your clients and  or end-users and swarm around these\
+Focus on and swarm around these\
 Share a tangible product strategy with your development teams (s)
 
 
@@ -164,9 +164,6 @@ SRE teams - Risk tolerance
 Platform team
 Measurements code complexity - Relationshis between services - Service decomposition
 cycle time, mean time to repair, deployment frequency, change failure rate
-
-Matching ambitions with ..
-### My investor expects me to grow quickly. What do I do with all these bodies?
 
 
 
