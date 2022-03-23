@@ -59,7 +59,7 @@ a scale-up)
 
 ## 3. Isolation and silo forming between value streams
 
-A pattern which I've come across in some organisations that explore different potential fatures and / or revenue streams at the same time.
+This is a pattern which I've come across in some organisations that explore different potential fatures and / or revenue streams at the same time.
 The work is divided over several end-to-end teams working in parallel where a  level of isolatition between the teams is observed.<br></br>
 These teams each focussed on particular areas or features that share a lot of technical and functonal similarities.<br></br>
 The teams can easily end up being silo'ed from each other while at the same time sharing a lot of shared code. When the teams are aware 
@@ -70,18 +70,20 @@ poor performance, poor maintanance
 
 What can you do about it?
 
-- Make sure your development teams have enough knowledge about the key company mission and products. Update them on a continuous basis and involve them early
-  - Involve tech leads in upcoming 
-- Make sure an ongoing discussion between the teams is facilitated on a daily basis, for instance with:
-  - A daily standup between the teams, liek Scrum of Scrums
-  - Team representatives visiti
-  - Using an architecture guild with representative of each team to understand where the other teams are heading 
+- Make sure your development teams have enough knowledge about the key company mission and products. 
+  - Update them on a continuous basis and involve them early
+  - Involve them in an active way (e.g. involve them in figuring out user journey and goals together with the business)
+- Consider using one backlog instead of having each team work on their own
+- Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with:
+  - A daily standup between the teams, like Scrum of Scrums
+  - Team representatives or whole team visits the demo / sprint review
+  - Using an architecture guild with representative of each team to understand where the other teams are heading on technical path 
   - A shared architecture picture that is continuously updated and visible to everyone (wall and / or virtual board)
   - Shared items like DoD's and non-functional requirements 
   - Lightweight architectural decision logs in the code
-
 <br></br>
 ## 4. Loss of contact with the end-user product in development team
+  
 Strongly correlated to #3 we often see teams that have a narrow technical mission which is not coupled to the working end-user product
 <br></br>
 ## 5. Only focussing on functionality and forgetting enablement for the teams to take end-to-end responsibilty
