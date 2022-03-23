@@ -1,4 +1,4 @@
-# The 5 pittfalls that make software scale-ups fail (and what you should do about it)
+# The 5 + 1 pittfalls that make software scale-ups fail (and what you should do about it)
 
 ## The challenge
 Growing a software startup into a scale-up is hard. This phase of your company requires a shift in thinking and very specific leadership skills.
@@ -55,18 +55,21 @@ Read:
 a scale-up) 
 - the professional product owner by SCRUM.org
 
-## 3. Several teams working in isolation on different value streams
+## 3. Isolation and silo forming between value streams
 
-I've come across a lot of organisations that were exploring different potential fatures and / or revenue streams at the same time. 
-They divided the work over several end-to-end teams working in parallel. These teams each focussed on particular areas or features. Usually these
-share a lot of similarities. <br></br>
+A pattern which I've come across in some organisations that explore different potential fatures and / or revenue streams at the same time.
+The work is divided over several end-to-end teams working in parallel where a high level of isolatition between the teams is observed.<br></br>
+These teams each focussed on particular areas or features that share a lot of technical and functonal similarities.<br></br>
 The teams can easily end up being silo'ed from each other while at the same time sharing a lot of shared code. When the teams are aware 
-of only their own team mission it can lead to poorly optimized software, conflicting requirements.
+of only their own team mission it can lead to poorly optimized software, yet do their own optimization.
 
-Observable symptoms are: Inflexible and entangled (micro) services architecture, poor performance, poor maintanance, 
-suboptimal and inconsistent end-user experience
+Observable symptoms are: Suboptimal and inconsistent end-user experience, inflexible and entangled (micro) services architecture,
+poor performance, poor maintanance 
 
-The core issue is usually making sure your development teams have enough knowledge about the key company mission and products. Update them on a continuous basis and involve them early
+What can you do about it?
+
+- _making sure your development teams have enough knowledge about the key company mission and products. Update them on a continuous basis and involve them early_
+- Make sure an ongoing discussion 
 
 The level of conversation between the teams should be also be improved. The conversation could be fascilitated around the following items:
 - Using an architecture guild with representative of each team to understand where the other teams are heading
