@@ -77,7 +77,7 @@ What can you do about it?
 - Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with
   - A daily standup between the teams, like Scrum of Scrums
   - Team representatives or whole team visits the demo / sprint review of other teams
-  - Using an architecture guild with representative of each team to understand where the other teams are heading on technical path 
+  - Using an architecture guild with representative of each team to understand where the other teams are heading on technical path and enable more efficient and future proof code to be written
   - A shared architecture picture that is continuously updated and visible to everyone (wall and / or virtual board)
   - Shared items like DoD's and non-functional requirements 
   - Lightweight architectural decision logs in the code
