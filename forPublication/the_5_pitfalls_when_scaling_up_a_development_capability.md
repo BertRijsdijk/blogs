@@ -27,7 +27,7 @@ while maintaining healthy development practices.
 ## 2. Backlog filled with low business value items an/or missing system to determine value
 
 Under the stress of demanding stakeholders, clients and investors the backlogs get filled up quickly while the company is still learning about it's value and mission. 
-The result is an enormous body of potential work with undetermined value. Even the growth of the development team itself will lead to more backlog items as most employees 
+The result can be an enormous body of potential work with undetermined value. Even the growth of the development team itself will lead to more backlog items as most employees 
 will likely try to be useful and suggest improvements and things they need to do to make the product and developer experience better.
 
 The problem becomes visible in the form of long backlogs where PBI's miss business value, prioritisation becomes difficult and missing objective business value criteria. 
@@ -90,7 +90,7 @@ or seen the end product. <br></br>I am not talking about enablement teams like S
 or take some of the shared infra / cloud work between the teams away. 
 No I am talking about team component based teams, also refered to as _horisontal_ teams.<br></br>
 This kind of system can potentially completely disconnect the backend and / or API teams. I have experienced working
-with the developers that had never touched the product. The system is deceiving because it gives the impression of efficiency
+with the developers that had never touched the end product. The system is deceiving because it gives the impression of efficiency
 but this usually is a form of inward thinking towards individual components or parts of the system. A Value Stream Map can help
 uncover the hidden inefficiencies.
 
@@ -114,33 +114,27 @@ Has your scale-up been feeling like bigcorp lately? Perhaps you are letting go o
 you have started to put processes in place under the assumption that you will need a lot of structure now that you are growing.
 <br></br>The underlying problem could stem from the tendency to want to 'keep control' or could come from lack of trust. 
 Written down processes could give you a false sense of control, and indirectly increase the influence that you have over how 
-your teams work at the cost of team autonomy. Processes can also become 
+your teams work at the cost of team autonomy. Processes can also come from the teams as a _subconcious_ way to reduce
+stress by avoiding certain decisions (just folow the process)
 
 The symptoms include: 
 - Lot of heavy agile scaling frameworks implemented before it was really needed
 - A lot of process overhead and roles make everything feel sticky
+- Hiding behind processes when things go wrong
 - Complex to decide on things like tooling
-- Complex ticketing system with complicated workflows
+- Complex ticketing system with complicated workflows with mandatory steps
 - Lot's of Confluence pages written with little engagement
 - Lot's of meetings
 - It takes more the 24 hours for your developers to get something they need
 
-Assess the real value of any additional process step in how it is going to help the teams deliver better software faster
+Most companies don't really need the heavy stuff when they still have a relatively small number of development teams. 
+A scrum of scrums and low bar communication messaging tools might be enough to keep the conversation going.  
 
-
-When your company
-becomes bigger 
-A reflex could be to build
-all these processes. Employees 
-
-Calculate wether 
-
-
-What you should do about 
-
-
-A symptom of the problem is scale-up that makes you feel like you are part of a big corporate environment. Software release procedures are long and cumbersome. Getting a new laptop requires filling in a form.
-<br></br>
+You should only hire people that you trust. Given trust the controls you might want to put in place are the ones that really matter.
+- The number of features we are delivering this sprint
+- The trends and goals in DORA metrics
+- Give the development teams what they ask for to achieve their goals (autonomy)
+- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software faster versus the cost of the step
 
 ## 6. Repeating the same mistakes over and over again, instead of learning 
 
