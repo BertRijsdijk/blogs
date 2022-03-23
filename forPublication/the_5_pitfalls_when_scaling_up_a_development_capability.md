@@ -70,11 +70,11 @@ poor performance
 
 What can you do about it?
 
-- Make sure your development teams have enough knowledge about the key company mission and products. 
+- <b>Make sure your development teams have enough knowledge about the key company mission and products</b>. 
   - Update them on a continuous basis and involve them early
   - Involve them in an active way (e.g.  in figuring out user journey and goals together with the business)
-- Consider using one backlog instead of having each team work on their own
-- Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with:
+- <b>Consider using one backlog instead of having each team work on their own
+- Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with</b>
   - A daily standup between the teams, like Scrum of Scrums
   - Team representatives or whole team visits the demo / sprint review
   - Using an architecture guild with representative of each team to understand where the other teams are heading on technical path 
@@ -85,9 +85,16 @@ What can you do about it?
 ## 4. Loss of contact with the end-user product in development team
   
 Strongly correlated to #3 this can be seen at companies that give their team narrow technical missions 
-which are not directly related to the working end-user product.
+which are not directly related to the working end-user product. Sometimes there are even teams that have never used
+or seen the end product.
 
-Symptoms include: Late feedbackloops outside the team (e.g. test sprint) Teams that can not take end-to-end ownership, 
+Symptoms include:
+- Bad UX experience of the end-product
+- Late feedbackloop outside the team (e.g. test and/or stabalization sprint), 
+- Teams that can not take end-to-end ownership
+- Inter-team dependencies (e.g. backend services need to be finished first before other teams can start)
+- Poor non-functional performance
+- Architecture doesn't enable a good end product
 
 <br></br>
 ## 5. Only focussing on functionality and forgetting enablement for the teams to take end-to-end responsibilty
