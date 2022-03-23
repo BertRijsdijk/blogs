@@ -1,8 +1,8 @@
 # The 7 pittfalls that make software scale-ups fail (and what you should do about it)
 
 ## The challenge: From Start-up to Scale-up
-Growing a software start-up into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills
-that differ greatly from what was needed before.
+Growing a new software into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills
+that differ greatly from what was needed from the start-up phase.
 <br></br>
 In this blog I am describing a set of _problems_ and _patterns_ that I have observed in some of the scale-ups I've worked with.
 If not addressed, these patterns can be detrimental to the future of these organisations and could ultimately lead to failure.<br></br>
@@ -23,7 +23,7 @@ cost associated with more complex communication patterns in and between bigger t
 while maintaining healthy development practices. 
 <br></br> DORA and technical-dept metrics could be used for the purpose of determine if the teams can absorb more. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. 
 <br></br>Consider working on increasing the key metrics first _and getting specific hires to improve those_ before you start growing the product teams again and choose no-hires over poor hires.
-<br></br>
+
 ## 2. Backlog filled with low business value items an/or missing system to determine value
 
 Under the stress of demanding stakeholders, clients and investors the backlogs get filled up quickly while the company is still learning about it's value and mission. 
@@ -72,29 +72,35 @@ What can you do about it?
 
 - <b>Make sure your development teams have enough knowledge about the key company mission and products</b>. 
   - Update them on a continuous basis and involve them early
-  - Involve them in an active way (e.g.  in figuring out user journey and goals together with the business)
+  - Involve them in an active way (e.g.  in figuring out user journey and goals together with the business, communicate via examples)
 - <b>Consider using one backlog instead of having each team work on their own
 - Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with</b>
   - A daily standup between the teams, like Scrum of Scrums
-  - Team representatives or whole team visits the demo / sprint review
+  - Team representatives or whole team visits the demo / sprint review of other teams
   - Using an architecture guild with representative of each team to understand where the other teams are heading on technical path 
   - A shared architecture picture that is continuously updated and visible to everyone (wall and / or virtual board)
   - Shared items like DoD's and non-functional requirements 
   - Lightweight architectural decision logs in the code
-<br></br>
+
 ## 4. Loss of contact with the end-user product in development team
   
 Strongly correlated to #3 this can be seen at companies that give their team narrow technical missions 
 which are not directly related to the working end-user product. Sometimes there are even teams that have never used
-or seen the end product.
+or seen the end product. <br></br>I am not talking about enablement teams like SRE or platform teams, , which improve developer experience
+or take some of the shared infra / cloud work between the teams away. 
+No I am talking about team component based teams, also refered to as _horisontal_ teams.<br></br>
 
-Symptoms include:
+This kind of system disconnects 
+
+<br></br>Symptoms include:
 - Bad UX experience of the end-product
-- Late feedbackloop outside the team (e.g. test and/or stabalization sprint), 
+- Late feedbackloop outside the team (e.g. test and/or stabilization sprint), 
 - Teams that can not take end-to-end ownership
 - Inter-team dependencies (e.g. backend services need to be finished first before other teams can start)
 - Poor non-functional performance
 - Architecture doesn't enable a good end product
+
+What to do about it?
 
 <br></br>
 ## 5. Only focussing on functionality and forgetting enablement for the teams to take end-to-end responsibilty
