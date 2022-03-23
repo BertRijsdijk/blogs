@@ -86,7 +86,7 @@ What can you do about it?
   
 Strongly correlated to #3 this can be seen at companies that give their team narrow technical missions 
 which are not directly related to the working end-user product. Sometimes there are even teams that have never used
-or seen the end product. <br></br>I am not talking about enablement teams like SRE or platform teams, , which improve developer experience
+or seen the end product. <br></br>I am not talking about enablement teams like SRE or platform teams, which improve things like developer experience
 or take some of the shared infra / cloud work between the teams away. 
 No I am talking about team component based teams, also refered to as _horisontal_ teams.<br></br>
 This kind of system can potentially completely disconnect the backend and / or API teams. I have experienced working
@@ -110,8 +110,13 @@ What to do about it? You could consider one or more of the following:
 
 
 ## 5. Creating heavy business processes and to much focus on 'allignment'
+Sometimes 
 
-The symptoms include
+The symptoms include 
+- A lot of process overhead and roles make everything feel sticky
+- Complex ticketing system with complicated workflows
+- Lot's of Confluence pages written with little engagement
+- It takes more the 24 hours for your developers to get something they need
 
 
 
