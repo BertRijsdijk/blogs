@@ -19,7 +19,7 @@ The result could come as a surprise: When adding resources too quickly it become
 cost associated with more complex communication patterns in and between bigger teams.
 <br></br>The problem becomes visible in the form of lower velocity, lower predictability and lower quality. It is undoubtly tied in with a number of other problems listed in this blog. 
 
-I define <b>organic growth</b> as policy where you only add more resources to the point where you are able to keep creating an increasing the number of features that can be released a.k.a. <b> working software in production</b> 
+<b>Organic growth</b> is to add only so many resources that enable you to maintain an increasing the number of features that can be released a.k.a. <b> working software in production</b> 
 while maintaining healthy development practices. 
 <br></br> DORA and technical-dept metrics could be used for the purpose of determine if the teams can absorb more. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. 
 <br></br>Consider working on increasing the key metrics first _and getting specific hires to improve those_ before you start growing the product teams again and choose no-hires over poor hires.
@@ -90,7 +90,7 @@ or seen the end product. <br></br>I am not talking about enablement teams like S
 or take some of the shared infra / cloud work between the teams away. 
 No I am talking about team component based teams, also refered to as _horisontal_ teams.<br></br>
 
-This kind of system disconnects 
+This kind of system can potentially completely disconnect 
 
 <br></br>Symptoms include:
 - Bad UX experience of the end-product
@@ -101,6 +101,10 @@ This kind of system disconnects
 - Architecture doesn't enable a good end product
 
 What to do about it?
+
+- Consider slicing your teams vertically. Do take into account the best practices I have mentioned in #3
+- When possible apply Dogfooding. In other words make everyone in the teams use the products as much as possible
+- 
 
 <br></br>
 ## 5. Only focussing on functionality and forgetting enablement for the teams to take end-to-end responsibilty
