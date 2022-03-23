@@ -131,10 +131,10 @@ Most companies don't really need the heavy stuff when they still have a relative
 A scrum of scrums and low bar communication messaging tools might be enough to keep the conversation going.  
 
 You should only hire people that you trust. Given trust the controls you might want to put in place are the ones that really matter.
-- The number of features we are delivering this sprint
+- <b>The number of features we are delivering this sprint
 - The trends and goals in DORA metrics
 - Give the development teams what they ask for to achieve their goals (autonomy)
-- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software faster versus the cost of the step
+- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software faster versus the cost, loss of flexibility and overhead</b>
 
 ## 6. Repeating the same mistakes over and over again, instead of learning 
 
