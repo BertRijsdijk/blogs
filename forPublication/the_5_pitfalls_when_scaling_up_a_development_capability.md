@@ -70,7 +70,7 @@ poor performance
 
 What can you do about it?
 
-- <b>Make sure your development teams have enough knowledge about the key company mission and products</b>. 
+- <b>Make sure your development teams have enough knowledge about the key company mission and all the products</b>. 
   - Update them on a continuous basis and involve them early
   - Involve them in an active way (e.g.  in figuring out user journey and goals together with the business, communicate via examples)
 - <b>Consider using one backlog instead of having each team work on their own
@@ -110,9 +110,13 @@ What to do about it? You could consider one or more of the following:
 
 
 ## 5. Creating heavy business processes and to much focus on 'allignment'
-Has your scale-up  
+Has your scale-up been feeling like bigcorp lately? Perhaps you are letting go of you lean ways to soon and 
+you have started to put processes in place under the assumption that you will need a lot of structure now that you are growing.
+<br></br>The underlying problem could stem from the tendency to want to 'keep control' or could come from lack of trust. 
+Written down processes could give you a false sense of control, and indirectly increase the influence that you have over how 
+your teams work at the cost of team autonomy. Processes can also become 
 
-The symptoms include 
+The symptoms include: 
 - Lot of heavy agile scaling frameworks implemented before it was really needed
 - A lot of process overhead and roles make everything feel sticky
 - Complex to decide on things like tooling
@@ -120,6 +124,17 @@ The symptoms include
 - Lot's of Confluence pages written with little engagement
 - Lot's of meetings
 - It takes more the 24 hours for your developers to get something they need
+
+Assess the real value of any additional process step in how it is going to help the teams deliver better software faster
+
+
+When your company
+becomes bigger 
+A reflex could be to build
+all these processes. Employees 
+
+Calculate wether 
+
 
 What you should do about 
 
