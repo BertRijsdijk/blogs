@@ -109,7 +109,7 @@ What to do about it? You could consider one or more of the following:
 
 
 ## 5. Creating heavy business processes and to much focus on 'allignment'
-Has your scale-up been feeling like bigcorp lately? Perhaps you are letting go of your lean ways to soon and 
+Has your scale-up been feeling like BigCorp lately? Perhaps you are letting go of your lean ways to soon and 
 you have started to put processes in place under the assumption that you will need a lot of structure now that you are growing.
 <br></br>The underlying problem could also stem from the tendency to want to 'keep control' or could come from lack of trust. 
 Written down processes could give you a false sense of control and structure. They indirectly increase the influence that you have over how 
