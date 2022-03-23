@@ -1,4 +1,4 @@
-# The 7 pittfalls that make software scale-ups fail (and what you should do about it)
+# The 6 pittfalls that make software scale-ups fail (and what you should do about it)
 
 ## The challenge: From Start-up to Scale-up
 Growing a new software into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills
@@ -105,11 +105,15 @@ Symptoms include:
 
 What to do about it? You could consider one or more of the following:
 
-- Consider slicing your teams vertically. Do take into account the best practices I have mentioned in <b>bullet 3</b>
+- Consider slicing your teams vertically. Do take into account the best practices I have mentioned in <b>pattern 3</b>
 - When possible apply Dogfooding. In other words make everyone in the teams use the products as much as possible.
 
 
 ## 5. Creating heavy business processes and to much focus on 'allignment'
+
+The symptoms include
+
+
 
 A symptom of the problem is scale-up that makes you feel like you are part of a big corporate environment. Software release procedures are long and cumbersome. Getting a new laptop requires filling in a form.
 <br></br>
