@@ -145,7 +145,7 @@ The comfort for all to not look and just "look forward"
 
 - Blameless retrospectives
 
-#Conclusions
+## Conclusions
 I shared with you the patterns that we've dealt with working for clients. Often several of the patterns could be 
 observed at the same time. These patterns together can a complicated mess with lots of related issues. Mapping them all including the 
 relationships to determine cause and effect could help you figure out where to start. 
