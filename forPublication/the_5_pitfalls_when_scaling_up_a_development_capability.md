@@ -1,7 +1,7 @@
 # The 6 pittfalls that make software scale-ups fail (and what you should do about it)
 
 ## The challenge: From Start-up to Scale-up
-Growing a new software into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills
+Growing a new software into a scale-up is hard. This phase of a company poses very different challenges and requires very specific leadership skills
 that differ greatly from what was needed from the start-up phase.
 <br></br>
 In this blog I am describing a set of _problems_ and _patterns_ that I have observed in some of the scale-ups I've worked with.
