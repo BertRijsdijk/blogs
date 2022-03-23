@@ -1,4 +1,4 @@
-# The 6 pittfalls that make software scale-ups fail (and what you should do about it)
+# The 7 pittfalls that make software scale-ups fail (and what you should do about it)
 
 ## The challenge: From Start-up to Scale-up
 Growing a software start-up into a scale-up is hard. This phase of a company requires a shift in thinking and very specific leadership skills
@@ -62,17 +62,17 @@ a scale-up)
 This is a pattern which I've come across in some organisations that explore different potential fatures and / or revenue streams at the same time.
 The work is divided over several end-to-end teams working in parallel where a  level of isolatition between the teams is observed.<br></br>
 These teams each focussed on particular areas or features that share a lot of technical and functonal similarities.<br></br>
-The teams can easily end up being silo'ed from each other while at the same time sharing a lot of shared code. When the teams are aware 
-of only their own team mission it can lead to poorly optimized software, yet do their own optimization.
+The teams can easily end up being silo'ed from each other while at the same time using a lot of shared code. When the teams are aware 
+of only their own team mission it can lead to poorly optimized software.
 
-Observable symptoms are: Suboptimal and inconsistent end-user experience, inflexible and entangled (micro) services architecture,
-poor performance, poor maintanance 
+Observable symptoms are: Suboptimal and inconsistent end-user experience, poor system performance, inflexible and entangled (micro) services architecture,
+poor performance
 
 What can you do about it?
 
 - Make sure your development teams have enough knowledge about the key company mission and products. 
   - Update them on a continuous basis and involve them early
-  - Involve them in an active way (e.g. involve them in figuring out user journey and goals together with the business)
+  - Involve them in an active way (e.g.  in figuring out user journey and goals together with the business)
 - Consider using one backlog instead of having each team work on their own
 - Make sure an ongoing discussion between the teams is facilitated on a regular basis, for instance with:
   - A daily standup between the teams, like Scrum of Scrums
@@ -84,7 +84,11 @@ What can you do about it?
 <br></br>
 ## 4. Loss of contact with the end-user product in development team
   
-Strongly correlated to #3 we often see teams that have a narrow technical mission which is not coupled to the working end-user product
+Strongly correlated to #3 this can be seen at companies that give their team narrow technical missions 
+which are not directly related to the working end-user product.
+
+Symptoms include: Late feedbackloops outside the team (e.g. test sprint) Teams that can not take end-to-end ownership, 
+
 <br></br>
 ## 5. Only focussing on functionality and forgetting enablement for the teams to take end-to-end responsibilty
 <br></br>
@@ -93,7 +97,11 @@ Strongly correlated to #3 we often see teams that have a narrow technical missio
 A symptom of the problem is scale-up that makes you feel like you are part of a big corporate environment. Software release procedures are long and cumbersome. Getting a new laptop requires filling in a form.
 <br></br>
 
+## 7. Repeating the same mistakes over and over again, instead of learning 
 
+The comfort for all to not look and just "look forward" 
+
+- Blameless retrospective
 ## Solutions
 
 
