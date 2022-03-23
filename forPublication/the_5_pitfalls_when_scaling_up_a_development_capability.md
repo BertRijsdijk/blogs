@@ -89,8 +89,7 @@ which are not directly related to the working end-user product. Sometimes there 
 or seen the end product. <br></br>I am not talking about enablement teams like SRE or platform teams, which improve things like developer experience
 or take some of the shared infra / cloud work between the teams away. 
 No I am talking about team component based teams, also refered to as _horisontal_ teams.<br></br>
-This kind of system can potentially completely disconnect the backend and / or API teams. I have experienced working
-with the developers that had never touched the end product. The system is deceiving because it gives the impression of efficiency
+This kind of system can potentially completely disconnect the backend and / or API teams from real usage of their code. The system is deceiving because it gives the impression of efficiency
 but this usually is a form of inward thinking towards individual components or parts of the system. A Value Stream Map can help
 uncover the hidden inefficiencies.
 
