@@ -89,32 +89,32 @@ which are not directly related to the working end-user product. Sometimes there 
 or seen the end product. <br></br>I am not talking about enablement teams like SRE or platform teams, , which improve developer experience
 or take some of the shared infra / cloud work between the teams away. 
 No I am talking about team component based teams, also refered to as _horisontal_ teams.<br></br>
+This kind of system can potentially completely disconnect the backend and / or API teams. I have experienced working
+with the developers that had never touched the product. The system is deceiving because it gives the impression of efficiency
+but this usually is a form of inward thinking towards individual components or parts of the system. A Value Stream Map can help
+uncover the hidden inefficiencies.
 
-This kind of system can potentially completely disconnect 
-
-<br></br>Symptoms include:
+Symptoms include:
 - Bad UX experience of the end-product
 - Late feedbackloop outside the team (e.g. test and/or stabilization sprint), 
 - Teams that can not take end-to-end ownership
 - Inter-team dependencies (e.g. backend services need to be finished first before other teams can start)
 - Poor non-functional performance
 - Architecture doesn't enable a good end product
+- Very hard to do Continuous Delivery
 
-What to do about it?
+What to do about it? You could consider one or more of the following:
 
-- Consider slicing your teams vertically. Do take into account the best practices I have mentioned in #3
-- When possible apply Dogfooding. In other words make everyone in the teams use the products as much as possible
-- 
+- Consider slicing your teams vertically. Do take into account the best practices I have mentioned in <b>bullet 3</b>
+- When possible apply Dogfooding. In other words make everyone in the teams use the products as much as possible.
 
-<br></br>
-## 5. Only focussing on functionality and forgetting enablement for the teams to take end-to-end responsibilty
-<br></br>
-## 6. Creating heavy business processes and to much focus on 'allignment'
+
+## 5. Creating heavy business processes and to much focus on 'allignment'
 
 A symptom of the problem is scale-up that makes you feel like you are part of a big corporate environment. Software release procedures are long and cumbersome. Getting a new laptop requires filling in a form.
 <br></br>
 
-## 7. Repeating the same mistakes over and over again, instead of learning 
+## 6. Repeating the same mistakes over and over again, instead of learning 
 
 The comfort for all to not look and just "look forward" 
 
