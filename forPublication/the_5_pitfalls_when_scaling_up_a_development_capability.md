@@ -47,7 +47,7 @@ When you are finding yourself in this spot you could consider the following appr
 </b>
 <br>
 
-Succes depends on using such system with discipline. Letting go of a feature where you invested in 
+Succes depends on using such system with discipline. Letting go of a feature in which you invested 
 emotionally or financially is hard. It could be tempting to game the system. It requires a strong vision, leadership and a 
 experienced product management capability to avoid stepping into these traps.
  
@@ -111,13 +111,14 @@ What to do about it? You could consider one or more of the following:
 ## 5. Creating heavy business processes and to much focus on 'allignment'
 Has your scale-up been feeling like BigCorp lately? Perhaps you are letting go of your lean ways to soon and 
 you have started to put processes in place under the assumption that you will need a lot of structure now that you are growing.
-<br></br>The underlying problem could also stem from the tendency to want to 'keep control' or could come from lack of trust. 
+<br></br>The underlying problem could also stem from the tendency to want to 'keep control', since you are no longer
+a start-up you do not know what everyone is doing. It could come from lack of trust.<br></br> 
 Written down processes could give you a false sense of control and structure. They indirectly increase the influence that you have over how 
 your teams work at the cost of team autonomy and flexibility. The request for more processes and allignment sometimes comes from the teams themselves. 
-Perhaps as a _subconcious_ way to reduce stress by avoiding certain decisions (just folow the process).
+Perhaps as a _subconcious_ way to reduce stress by avoiding certain decisions (just follow the process).
 
 Symptoms can include: 
-- Lot of heavy agile scaling frameworks implemented before it was really needed
+- Heavy agile scaling framework implemented while you have only a few teams
 - A lot of process overhead and roles make everything feel sticky
 - Hiding behind processes when things go wrong
 - Hard to decide on things like tooling or even on small things
@@ -130,15 +131,19 @@ A scrum of scrums and low-bar communication messaging tools might be enough to k
 
 You should only hire people that you trust. Given you have trust you might get a sense of _grip_
 by putting put in place:
-- <b>Measurements that really matter, for example</b>
+- <b>Measurements that really matter over process guardrails, </b>for example:
   - The number of features we are delivering as working software this sprint
   - The trends and goals in DORA metrics
 - <b>Give the development teams what they ask for to achieve their goals (autonomy)
-- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software. Way this against the loss of flexibilty and compounded cost of maintaining processes
+- Assess the real value of any additional mandated process step in how it is going to help the teams deliver better software. Way this against the loss of flexibilty and compounded cost of maintaining processes 
+- Focus on becoming a learning organisation instead of an organisation with lots of safetynets, see #6  
 - Coach your teams to be flexible and problem solving over adhering to rules</b>
 
-## 6. Repeating the same mistakes over and over again, instead of learning 
-Many scale-ups are in a race against the clock to deliver their product to the market. Looking back in   
+## 6. Forgetting to become a learning organization 
+
+When you are in a race against the clock to deliver your product to the market. Looking back might
+not feel not be sexy, especially when you are still coming from a startup mindset where everyone
+used to know everything 
 
 
 The comfort for all to not look and just "look forward" 
