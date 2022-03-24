@@ -22,7 +22,7 @@ cost associated with more complex communication patterns in and between bigger t
 My definition of <b>Organic growth</b> is to add only so many resources that enable you to maintain an increasing the number of features that can be released a.k.a. <b> working software in production</b> 
 while maintaining healthy development practices. 
 <br></br> DORA and technical-dept metrics could be used for the purpose of determine if the teams can absorb more. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. 
-<br></br>Consider working on increasing the key metrics first _or getting specific hires to improve those_ before you start growing the product teams again and choose _no-hires_ over _poor hires_.
+<br></br>Consider working on key metrics and development practices first _or getting specific hires to improve those_ before you start growing the product teams again and choose _no-hires_ over _poor hires_.
 
 ## 2. Backlog filled with low business value items an/or missing system to determine value
 
