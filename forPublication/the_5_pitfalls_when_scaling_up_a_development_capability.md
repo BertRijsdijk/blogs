@@ -144,20 +144,28 @@ by putting put in place:
 
 You might be in a race against the clock to deliver your product to the market before the competition. Looking back might
 not feel very productive, especially when you are still coming from a startup mindset where everyone
-had an assumption(!) of a shared understanding of history and lessons. 
+had an assumption(!) of a shared understanding of history and lessons. Furthermore you are growing so quick, how
+can you even apply the lessons from the past?
 
-The problem is 
-
-
-is However, now that you are growing a culture of learning will become more important
+The challenge is that, unlike a person, an organisation in itself does not take notes or learn. Organsisations
+might store it in things like culture. Therefor, in this new phase you have start working on 
+this culture of learning, if not you will probable end up in <b>#5</b>, applying all the learnings into processes to prevent failure en getting
+mediocre results.
 
 What can you do about it?
 - Blameless retrospectives
 - Collect learnings on continuous basis
+- Make the learnings actionable, they should lead to different behaviours
+- Make sure the new behaviour is performed
+- Help people become each-others coaches
+- Reward risk taking
+
+Reading suggestion:
+- Ten steps to a Learning Organisation
 
 ## Conclusions
 I shared with you the patterns that we've dealt with working for clients. Often several of the patterns could be 
-observed at the same time. These patterns together can a complicated mess with lots of related issues. Mapping them all including the 
+observed at the same time. These patterns together can become a complicated mess with lots of related issues. Mapping them all including the 
 relationships to determine cause and effect could help you figure out where to start. 
 <br></br>Ultimately, the maturity of the leadership and product management teams really matter in being able to set the proper expectations
 and getting towards a high-performing development organisation. A lot of companies need guidance and coaching in that area
