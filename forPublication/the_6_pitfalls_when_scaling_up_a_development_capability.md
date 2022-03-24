@@ -160,7 +160,7 @@ What can you do about it?
 - Reward risk taking</b>
 
 Reading suggestion:
-- Ten steps to a Learning Organisation
+- Ten steps to a Learning Organisation by Peter Kline & Bernard Saunders
 
 ## Conclusions
 I shared with you the patterns that we've dealt with working for clients. Often several of the patterns could be 
