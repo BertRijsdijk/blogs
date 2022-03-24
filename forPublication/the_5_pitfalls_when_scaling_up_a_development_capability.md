@@ -142,14 +142,18 @@ by putting put in place:
 
 ## 6. Forgetting to become a learning organization 
 
-You are in a race against the clock to deliver your product to the market before the competition. Looking back might
-not feel not be sexy, especially when you are still coming from a startup mindset where everyone
-used to know everything that happened 
+You might be in a race against the clock to deliver your product to the market before the competition. Looking back might
+not feel very productive, especially when you are still coming from a startup mindset where everyone
+had an assumption(!) of a shared understanding of history and lessons. 
+
+The problem is 
 
 
-The comfort for all to not look and just "look forward" 
+is However, now that you are growing a culture of learning will become more important
 
+What can you do about it?
 - Blameless retrospectives
+- Collect learnings on continuous basis
 
 ## Conclusions
 I shared with you the patterns that we've dealt with working for clients. Often several of the patterns could be 
