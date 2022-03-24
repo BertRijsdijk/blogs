@@ -9,8 +9,7 @@ You might recognise some of them. <br></br>If not addressed, these patterns can 
 For each identified problem I will try to give a tangible solution based on my experience, here we go.
 
 ## 1. Scaling the teams up quickly over scaling up the teams organically
-Expansion of the development teams and capabilities are not always driven by an organic need in terms of output or concrete goals 
-and objectives. Sometimes the expansion is driven by future expectations and pressure from investers to go grow fast for some future velocity. 
+Sometimes the expansion of the development teams is driven by future expectations and pressure from investers to go grow fast for some future velocity. 
 Scaling up can then seems to almost become a goal in itself. <br></br>
 Sometimes organisational growth is driven by concrete targets but the only reflex known is just to add more bodies in the assumption 
 that velocity will at least keep going up to an extent. 
@@ -19,7 +18,7 @@ The result could come as a surprise: When adding resources too quickly it become
 cost associated with more complex communication patterns in and between bigger teams.
 <br></br>The problem becomes visible in the form of lower velocity, lower predictability and lower quality. It is undoubtly tied in with a number of other problems listed in this blog. 
 
-My definition of <b>Organic growth</b> is to add only so many resources that enable you to maintain an increasing the number of features that can be released a.k.a. <b> working software in production</b> 
+You should only so many resources that enable you to <b>maintain an increasing the number of features that can be released</b> a.k.a. <b> working software in production</b> 
 while maintaining healthy development practices. 
 <br></br> DORA and technical-dept metrics could be used for the purpose of determine if the teams can absorb more. <b>Stalling progress in these metrics can be an indicator to stop or change course in your hiring process</b>. 
 <br></br>Consider working on key metrics and development practices first _or getting specific hires to improve those_ before you start growing the product teams again and choose _no-hires_ over _poor hires_.
