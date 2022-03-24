@@ -114,8 +114,7 @@ you have started to put processes in place under the assumption that you will ne
 <br></br>The underlying problem could also stem from the tendency to want to 'keep control', since you are no longer
 a start-up you do not know what everyone is doing. It could come from lack of trust.<br></br> 
 Written down processes could give you a false sense of control and structure. They indirectly increase the influence that you have over how 
-your teams work at the cost of team autonomy and flexibility. The request for more processes and allignment sometimes comes from the teams themselves. 
-Perhaps as a _subconcious_ way to reduce stress by avoiding certain decisions (just follow the process).
+your teams work at the cost of team autonomy and flexibility. The request for more processes and allignment sometimes comes from the teams themselves.
 
 Symptoms can include: 
 - Heavy agile scaling framework implemented while you have only a few teams
