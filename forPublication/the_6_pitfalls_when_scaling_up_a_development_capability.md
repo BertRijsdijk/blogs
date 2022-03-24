@@ -153,12 +153,12 @@ this culture of learning, if not you will probable end up in <b>#5</b>, applying
 mediocre results.
 
 What can you do about it?
-- Blameless retrospectives
+- <b>Blameless retrospectives
 - Collect learnings on continuous basis
 - Make the learnings actionable, they should lead to different behaviours
 - Make sure the new behaviour is performed
 - Help people become each-others coaches
-- Reward risk taking
+- Reward risk taking</b>
 
 Reading suggestion:
 - Ten steps to a Learning Organisation
