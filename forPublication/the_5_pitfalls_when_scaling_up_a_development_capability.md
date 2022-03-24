@@ -61,7 +61,8 @@ a scale-up)
 
 This is a pattern which I've come across in some organisations that explore different potential fatures and / or revenue streams at the same time.
 The work is divided over several end-to-end teams working in parallel where a  level of isolatition between the teams is observed.<br></br>
-These teams each focussed on particular areas or features that share a lot of technical and functonal similarities and can easily end up being silo'ed from each other while at the same time using a lot of shared code. 
+These teams each focussed on particular areas or features that share a lot of technical and functonal similarities in some organisations end up being silo'ed 
+from each other while at the same time using a lot of shared code. 
 When the teams are only aware of their own team mission it can lead to poorly optimized software.
 
 Observable symptoms are: Suboptimal and inconsistent end-user experience, poor system performance, inflexible and entangled (micro) services architecture,
@@ -141,9 +142,9 @@ by putting put in place:
 
 ## 6. Forgetting to become a learning organization 
 
-When you are in a race against the clock to deliver your product to the market. Looking back might
+You are in a race against the clock to deliver your product to the market before the competition. Looking back might
 not feel not be sexy, especially when you are still coming from a startup mindset where everyone
-used to know everything 
+used to know everything that happened 
 
 
 The comfort for all to not look and just "look forward" 
